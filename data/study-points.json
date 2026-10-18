@@ -1,6 +1,7 @@
 [
   {
     "questionId": "exam-026",
+    "number": 26,
     "theme": "宅地・取引・業の判定",
     "field": "宅建業法",
     "importance": "A",
@@ -10,6 +11,7 @@
   },
   {
     "questionId": "exam-027",
+    "number": 27,
     "theme": "免許区分と営業地域",
     "field": "宅建業法",
     "importance": "A",
@@ -19,6 +21,7 @@
   },
   {
     "questionId": "exam-028",
+    "number": 28,
     "theme": "免許の欠格事由",
     "field": "宅建業法",
     "importance": "A",
@@ -28,6 +31,7 @@
   },
   {
     "questionId": "exam-029",
+    "number": 29,
     "theme": "宅建士の登録と変更",
     "field": "宅建業法",
     "importance": "A",
@@ -37,6 +41,7 @@
   },
   {
     "questionId": "exam-030",
+    "number": 30,
     "theme": "専任宅建士の設置",
     "field": "宅建業法",
     "importance": "A",
@@ -46,6 +51,7 @@
   },
   {
     "questionId": "exam-031",
+    "number": 31,
     "theme": "営業保証金の供託",
     "field": "宅建業法",
     "importance": "A",
@@ -55,6 +61,7 @@
   },
   {
     "questionId": "exam-032",
+    "number": 32,
     "theme": "保証協会と弁済の対象",
     "field": "宅建業法",
     "importance": "A",
@@ -64,6 +71,7 @@
   },
   {
     "questionId": "exam-033",
+    "number": 33,
     "theme": "専任媒介契約",
     "field": "宅建業法",
     "importance": "A",
@@ -73,6 +81,7 @@
   },
   {
     "questionId": "exam-034",
+    "number": 34,
     "theme": "広告と取引態様",
     "field": "宅建業法",
     "importance": "A",
@@ -82,6 +91,7 @@
   },
   {
     "questionId": "exam-035",
+    "number": 35,
     "theme": "重要事項説明の手続・電子交付",
     "field": "宅建業法",
     "importance": "A",
@@ -91,6 +101,7 @@
   },
   {
     "questionId": "exam-036",
+    "number": 36,
     "theme": "35条と37条の記載事項",
     "field": "宅建業法",
     "importance": "A",
@@ -100,6 +111,7 @@
   },
   {
     "questionId": "exam-037",
+    "number": 37,
     "theme": "37条書面の交付",
     "field": "宅建業法",
     "importance": "A",
@@ -109,42 +121,47 @@
   },
   {
     "questionId": "exam-038",
+    "number": 38,
     "theme": "クーリング・オフの申込場所",
     "field": "宅建業法",
     "importance": "A",
-    "point": "クーリング・オフは申込場所、告知日を含む8日、書面発信。",
+    "point": "業者売主→非業者買主。申込場所を確認し、所定の告知日を含む8日以内に書面発送。全額支払と引渡しの両方が済むと不可。",
     "law": "宅地建物取引業法",
     "articles": "37条の2、78条2項"
   },
   {
     "questionId": "exam-039",
+    "number": 39,
     "theme": "契約不適合責任の特約",
     "field": "宅建業法",
     "importance": "A",
-    "point": "期間特約の例外は「引渡しから2年以上」。契約日起算に注意。",
+    "point": "業者売主→非業者買主。種類・品質の契約不適合の通知期間を特約で定めるなら「引渡しから2年以上」。契約日起算と混同しない。",
     "law": "宅地建物取引業法",
     "articles": "40条、78条2項、民法566条"
   },
   {
     "questionId": "exam-040",
+    "number": 40,
     "theme": "損害賠償予定額と違約金",
     "field": "宅建業法",
     "importance": "A",
-    "point": "予定額＋違約金≦代金20％。超える部分だけ無効。",
+    "point": "業者売主→非業者買主。損害賠償予定額と違約金の合計は代金の20％まで。超過部分だけ無効。",
     "law": "宅地建物取引業法",
     "articles": "38条、78条2項"
   },
   {
     "questionId": "exam-041",
+    "number": 41,
     "theme": "未完成物件の手付と保全",
     "field": "宅建業法",
     "importance": "A",
-    "point": "未完成は5％以下かつ1,000万円以下なら金額免除。必要時は全額を受領前に保全。",
+    "point": "業者売主→非業者買主の未完成物件。手付金等が代金5％以下かつ1,000万円以下なら原則保全不要。必要なら受領前に全額保全。",
     "law": "宅地建物取引業法",
     "articles": "39条、41条、41条の2、78条2項"
   },
   {
     "questionId": "exam-042",
+    "number": 42,
     "theme": "売買媒介の報酬計算",
     "field": "宅建業法",
     "importance": "A",
@@ -154,24 +171,17 @@
   },
   {
     "questionId": "exam-043",
+    "number": 43,
     "theme": "低廉な空家等の報酬特例",
     "field": "宅建業法",
     "importance": "A",
-    "point": "低廉な空家等は税抜800万円以下。媒介特例は一方につき税込33万円以内。",
+    "point": "税抜800万円以下の低廉な空家等。事前説明・合意をし、媒介費用を勘案。媒介報酬の特例は1当事者につき税込33万円以内。",
     "law": "宅地建物取引業法",
     "articles": "46条、報酬告示第七、解釈運用46条1項関係"
   },
   {
-    "questionId": "exam-044",
-    "theme": "業者・宅建士への監督",
-    "field": "宅建業法",
-    "importance": "A",
-    "point": "取消しは免許権者、消除は登録先知事。業務停止は1年以内。",
-    "law": "宅地建物取引業法",
-    "articles": "65条、66条、68条、68条の2"
-  },
-  {
     "questionId": "exam-045",
+    "number": 45,
     "theme": "住宅瑕疵担保履行法",
     "field": "宅建業法",
     "importance": "A",
@@ -180,79 +190,18 @@
     "articles": "特定住宅瑕疵担保責任履行確保法2条・11条"
   },
   {
-    "questionId": "extra-082",
-    "theme": "保証協会の各期限",
-    "field": "宅建業法",
-    "importance": "A",
-    "point": "社員の追加分担金2週間、協会の通常供託1週間、還付充当金2週間。",
-    "law": "宅地建物取引業法",
-    "articles": "64条の7、64条の9、64条の10"
-  },
-  {
-    "questionId": "extra-085",
-    "theme": "専属専任媒介の比較",
-    "field": "宅建業法",
-    "importance": "A",
-    "point": "専属専任は自己発見不可・登録5日（休業日除外）・報告週1回。",
-    "law": "宅地建物取引業法",
-    "articles": "34条の2、施行規則15条の9・15条の10"
-  },
-  {
-    "questionId": "extra-086",
-    "theme": "一般媒介契約・価額意見",
-    "field": "宅建業法",
-    "importance": "A",
-    "point": "一般媒介も契約書面と価額意見の根拠は必要。法定の定期報告・登録義務はなし。",
-    "law": "宅地建物取引業法",
-    "articles": "34条の2"
-  },
-  {
-    "questionId": "extra-089",
-    "theme": "2026年改正・区分所有建物の重説",
-    "field": "宅建業法",
-    "importance": "A",
-    "point": "2026/4/1追加：管理業者が管理者等である旨。売買の修繕積立既存額も説明。",
-    "law": "宅地建物取引業法",
-    "articles": "35条1項6号、施行規則16条の2第3号・6号・8号・9号"
-  },
-  {
-    "questionId": "extra-090",
-    "theme": "35条・37条の組合せ",
-    "field": "宅建業法",
-    "importance": "A",
-    "point": "通常売買の代金額・引渡し時期・登記申請時期は37条の必要記載。解除事項は35条にもある。",
-    "law": "宅地建物取引業法",
-    "articles": "35条1項・2項、37条1項"
-  },
-  {
-    "questionId": "extra-093",
-    "theme": "完成物件の中間金保全",
-    "field": "宅建業法",
-    "importance": "A",
-    "point": "完成は累計10％以下かつ1,000万円以下。超える受領の前に累計全額を保全。",
-    "law": "宅地建物取引業法",
-    "articles": "41条、41条の2、78条2項"
-  },
-  {
-    "questionId": "extra-094",
-    "theme": "居住用賃貸の報酬",
-    "field": "宅建業法",
-    "importance": "A",
-    "point": "通常の居住用媒介：一方0.55か月（依頼時承諾で例外）、双方合計1.1か月。",
-    "law": "宅地建物取引業法",
-    "articles": "46条、報酬告示第四"
-  },
-  {
     "questionId": "exam-015",
+    "number": 15,
     "theme": "区域区分・地域地区",
     "field": "法令上の制限",
     "importance": "A",
-    "point": "市街化区域＝10年・用途地域必須／調整区域＝市街化抑制・用途地域原則なし。",
+    "point": "市街化区域は、すでに市街地を形成する区域と、おおむね10年以内に優先して市街化を図る区域。用途地域を定める。調整区域の用途地域は原則なし。",
     "law": "都市計画法",
     "articles": "7条、8条、9条、13条1項7号"
   },
   {
     "questionId": "exam-016",
+    "number": 16,
     "theme": "開発許可の対象・適用除外",
     "field": "法令上の制限",
     "importance": "A",
@@ -262,15 +211,17 @@
   },
   {
     "questionId": "exam-017",
+    "number": 17,
     "theme": "2025年施行・建築確認対象",
     "field": "法令上の制限",
     "importance": "A",
-    "point": "確認対象は「2階以上 又は 200㎡超」。区域外・小規模木造の旧知識に注意。",
+    "point": "通常の新築では、2階建ての木造住宅は都市計画区域外でも建築確認の対象。区域外だから不要、と判断しない。",
     "law": "建築基準法",
     "articles": "6条1項2号"
   },
   {
     "questionId": "exam-018",
+    "number": 18,
     "theme": "容積率の計算",
     "field": "法令上の制限",
     "importance": "A",
@@ -280,6 +231,7 @@
   },
   {
     "questionId": "exam-019",
+    "number": 19,
     "theme": "国土法・事後届出",
     "field": "法令上の制限",
     "importance": "A",
@@ -289,6 +241,7 @@
   },
   {
     "questionId": "exam-020",
+    "number": 20,
     "theme": "農地法3条・4条・5条",
     "field": "法令上の制限",
     "importance": "A",
@@ -298,6 +251,7 @@
   },
   {
     "questionId": "exam-021",
+    "number": 21,
     "theme": "盛土規制法の届出期限",
     "field": "法令上の制限",
     "importance": "A",
@@ -306,70 +260,8 @@
     "articles": "21条1項・3項・4項、45条"
   },
   {
-    "questionId": "exam-022",
-    "theme": "土地区画整理の効果",
-    "field": "法令上の制限",
-    "importance": "A",
-    "point": "仮換地は使用収益の移動。換地・保留地の権利効果は換地処分公告の翌日。",
-    "law": "土地区画整理法",
-    "articles": "25条、99条、104条1項・11項"
-  },
-  {
-    "questionId": "extra-066",
-    "theme": "開発許可の手続・承継",
-    "field": "法令上の制限",
-    "importance": "A",
-    "point": "廃止は遅滞なく届出。一般承継は承継、特定承継は承認。",
-    "law": "都市計画法",
-    "articles": "32条、38条、44条、45条"
-  },
-  {
-    "questionId": "extra-067",
-    "theme": "接道義務・2項道路",
-    "field": "法令上の制限",
-    "importance": "A",
-    "point": "道路幅員原則4m／接道長原則2m。2項道路は指定と後退を確認。",
-    "law": "建築基準法",
-    "articles": "42条2項、43条"
-  },
-  {
-    "questionId": "extra-069",
-    "theme": "低層住居専用地域の制限",
-    "field": "法令上の制限",
-    "importance": "A",
-    "point": "低層・田園住居：絶対高さ10/12m、外壁後退1/1.5m。",
-    "law": "建築基準法",
-    "articles": "43条、54条、55条"
-  },
-  {
-    "questionId": "extra-070",
-    "theme": "国土法・一団の土地",
-    "field": "法令上の制限",
-    "importance": "A",
-    "point": "買いの一団は合計面積で判断。基準以上なら小さな各契約にも届出。",
-    "law": "国土利用計画法",
-    "articles": "23条"
-  },
-  {
-    "questionId": "extra-071",
-    "theme": "農地の相続・現況判定",
-    "field": "法令上の制限",
-    "importance": "A",
-    "point": "相続は3条許可不要・原則届出。現況判定。市街化区域の転用届出は事前。",
-    "law": "農地法",
-    "articles": "2条、3条1項、3条の3、5条1項"
-  },
-  {
-    "questionId": "extra-072",
-    "theme": "盛土規制法・許可対象",
-    "field": "法令上の制限",
-    "importance": "A",
-    "point": "盛土の崖1m超、切土の崖2m超。小面積でも高さ基準で許可対象。",
-    "law": "宅地造成及び特定盛土等規制法・同施行令",
-    "articles": "法12条、施行令3条"
-  },
-  {
     "questionId": "exam-001",
+    "number": 1,
     "theme": "意思表示と第三者保護",
     "field": "権利関係",
     "importance": "A",
@@ -379,6 +271,7 @@
   },
   {
     "questionId": "exam-002",
+    "number": 2,
     "theme": "制限行為能力",
     "field": "権利関係",
     "importance": "A",
@@ -388,6 +281,7 @@
   },
   {
     "questionId": "exam-003",
+    "number": 3,
     "theme": "代理・復代理・代理権濫用",
     "field": "権利関係",
     "importance": "A",
@@ -397,6 +291,7 @@
   },
   {
     "questionId": "exam-004",
+    "number": 4,
     "theme": "時効の完成猶予・更新",
     "field": "権利関係",
     "importance": "A",
@@ -406,6 +301,7 @@
   },
   {
     "questionId": "exam-005",
+    "number": 5,
     "theme": "履行不能・危険負担・解除",
     "field": "権利関係",
     "importance": "A",
@@ -415,6 +311,7 @@
   },
   {
     "questionId": "exam-006",
+    "number": 6,
     "theme": "売買の契約不適合責任",
     "field": "権利関係",
     "importance": "A",
@@ -423,25 +320,8 @@
     "articles": "562条、563条、564条、566条"
   },
   {
-    "questionId": "exam-007",
-    "theme": "抵当権・順位変更・物上代位",
-    "field": "権利関係",
-    "importance": "A",
-    "point": "順位変更は合意・必要な承諾・登記。物上代位は原則払渡し前の差押え。",
-    "law": "民法",
-    "articles": "304条、369条、372条、374条、379条、380条"
-  },
-  {
-    "questionId": "exam-008",
-    "theme": "連帯債務と保証",
-    "field": "権利関係",
-    "importance": "A",
-    "point": "連帯債務の免除・時効完成は原則相対効。連帯保証人には催告・検索の抗弁権なし。",
-    "law": "民法",
-    "articles": "441条、446条2・3項、452条、454条"
-  },
-  {
     "questionId": "exam-009",
+    "number": 9,
     "theme": "法定相続分・限定承認",
     "field": "権利関係",
     "importance": "A",
@@ -450,16 +330,8 @@
     "articles": "887条、889条、890条、900条1・4号、923条"
   },
   {
-    "questionId": "exam-010",
-    "theme": "共有物の管理・保存・分割",
-    "field": "権利関係",
-    "importance": "A",
-    "point": "保存は単独、管理・軽微変更は持分過半数、重大変更は原則全員。不分割特約は各5年以内。",
-    "law": "民法",
-    "articles": "251条、252条、255条、256条"
-  },
-  {
     "questionId": "exam-011",
+    "number": 11,
     "theme": "普通借地権と対抗要件",
     "field": "権利関係",
     "importance": "A",
@@ -469,6 +341,7 @@
   },
   {
     "questionId": "exam-012",
+    "number": 12,
     "theme": "普通借家の更新・対抗力",
     "field": "権利関係",
     "importance": "A",
@@ -478,6 +351,7 @@
   },
   {
     "questionId": "exam-013",
+    "number": 13,
     "theme": "2026年改正区分所有法・集会",
     "field": "権利関係",
     "importance": "A",
@@ -486,115 +360,8 @@
     "articles": "34条2項、35条1項、39条1・2項（令和7年法律47号改正後）"
   },
   {
-    "questionId": "exam-014",
-    "theme": "不動産登記の申請",
-    "field": "権利関係",
-    "importance": "A",
-    "point": "新築は表題登記1か月。相続は単独申請可。承諾のある仮登記も単独申請可。",
-    "law": "不動産登記法",
-    "articles": "3条9号、47条1項、60条、63条2項、107条1項"
-  },
-  {
-    "questionId": "extra-051",
-    "theme": "錯誤と取消し",
-    "field": "権利関係",
-    "importance": "A",
-    "point": "錯誤は取消し。基礎事情の錯誤は表示が必要。重過失にも例外があり、第三者は善意無過失で保護。",
-    "law": "民法",
-    "articles": "95条"
-  },
-  {
-    "questionId": "extra-052",
-    "theme": "無権代理の催告・取消し・追認",
-    "field": "権利関係",
-    "importance": "A",
-    "point": "無権代理の本人が催告に沈黙→追認拒絶。善意の相手方は追認前に取消可。追認は原則遡及。",
-    "law": "民法",
-    "articles": "113条、114条、115条、116条"
-  },
-  {
-    "questionId": "extra-053",
-    "theme": "弁済と相殺の組合せ",
-    "field": "権利関係",
-    "importance": "A",
-    "point": "外観ある受領者への弁済は善意無過失。悪意不法行為の相殺禁止は加害者側。相殺意思表示に条件不可。",
-    "law": "民法",
-    "articles": "478条、505条、506条1項、509条"
-  },
-  {
-    "questionId": "extra-054",
-    "theme": "債権譲渡の対抗要件",
-    "field": "権利関係",
-    "importance": "A",
-    "point": "債務者には譲渡人通知又は承諾。債務者以外の第三者には原則確定日付ある証書も必要。",
-    "law": "民法",
-    "articles": "467条"
-  },
-  {
-    "questionId": "extra-055",
-    "theme": "解約手付と履行着手",
-    "field": "権利関係",
-    "importance": "A",
-    "point": "手付解除は相手方の履行着手前。買主は放棄、売主は倍額を現実提供。",
-    "law": "民法",
-    "articles": "557条"
-  },
-  {
-    "questionId": "extra-056",
-    "theme": "物権変動と登記の個数",
-    "field": "権利関係",
-    "importance": "A",
-    "point": "物権変動は意思表示、第三者対抗は原則登記。不動産登記には一般的な公信力なし。",
-    "law": "民法",
-    "articles": "176条、177条"
-  },
-  {
-    "questionId": "extra-057",
-    "theme": "適法な転貸と原状回復",
-    "field": "権利関係",
-    "importance": "A",
-    "point": "適法転貸後の合意解除は原則対抗不可。通常損耗は原則原状回復外。借主から敷金充当請求不可。",
-    "law": "民法",
-    "articles": "613条3項、621条、622条の2第2項"
-  },
-  {
-    "questionId": "extra-058",
-    "theme": "定期借地権の種類と方式",
-    "field": "権利関係",
-    "importance": "A",
-    "point": "一般定期50年以上・書面等。事業用10年以上50年未満・公正証書・居住用不可。",
-    "law": "借地借家法",
-    "articles": "22条、23条"
-  },
-  {
-    "questionId": "extra-059",
-    "theme": "定期建物賃貸借",
-    "field": "権利関係",
-    "importance": "A",
-    "point": "定期借家も事前説明必須。1年以上は終了通知。200㎡未満居住用のやむを得ない事情なら借主解約1か月。",
-    "law": "借地借家法",
-    "articles": "38条1〜8項"
-  },
-  {
-    "questionId": "extra-063",
-    "theme": "改正区分所有法・規約変更の計算",
-    "field": "権利関係",
-    "importance": "A",
-    "point": "規約変更：原則各過半数の出席→出席者とその議決権の各3/4以上。定足数と賛成数を別計算。",
-    "law": "区分所有法",
-    "articles": "31条1項、39条、45条"
-  },
-  {
-    "questionId": "extra-064",
-    "theme": "2026年の住所等変更登記義務",
-    "field": "権利関係",
-    "importance": "A",
-    "point": "2026/4/1から住所氏名等変更登記は2年以内、正当理由なしなら5万円以下の過料。相続登記の3年と区別。",
-    "law": "不動産登記法",
-    "articles": "76条の5、164条2項"
-  },
-  {
     "questionId": "exam-023",
+    "number": 23,
     "theme": "不動産取得税・非課税",
     "field": "税・その他",
     "importance": "A",
@@ -604,6 +371,7 @@
   },
   {
     "questionId": "exam-024",
+    "number": 24,
     "theme": "印紙税・金銭受取書",
     "field": "税・その他",
     "importance": "A",
@@ -613,6 +381,7 @@
   },
   {
     "questionId": "exam-025",
+    "number": 25,
     "theme": "居住用財産の3000万円特別控除",
     "field": "税・その他",
     "importance": "A",
@@ -622,38 +391,12 @@
   },
   {
     "questionId": "exam-047",
+    "number": 47,
     "theme": "不動産広告・徒歩と新築",
     "field": "税・その他",
     "importance": "A",
     "point": "徒歩は80m＝1分・端数切上げ。新築は1年未満かつ未入居。",
     "law": "不動産の表示に関する公正競争規約・同施行規則",
     "articles": "規約15条・18条1項1号・21条、施行規則9条9号"
-  },
-  {
-    "questionId": "exam-048",
-    "theme": "統計・令和7年住宅着工",
-    "field": "税・その他",
-    "importance": "A",
-    "point": "2025年年計：住宅着工約74万戸・6.5％減。持家・貸家・分譲とも減。",
-    "law": "建築着工統計調査報告",
-    "articles": "令和7年計・住宅着工概要"
-  },
-  {
-    "questionId": "extra-073",
-    "theme": "登録免許税・住宅用家屋の特例",
-    "field": "税・その他",
-    "importance": "A",
-    "point": "移転の住宅特例：個人・自己居住・50㎡以上・売買/競落・1年以内。",
-    "law": "租税特別措置法・同施行令",
-    "articles": "法73条、施行令42条"
-  },
-  {
-    "questionId": "extra-098",
-    "theme": "統計・令和8年地価公示",
-    "field": "税・その他",
-    "importance": "A",
-    "point": "2026年地価公示：全国住宅地2.1％上昇。平均と個別地点は別。",
-    "law": "令和8年地価公示",
-    "articles": "2026年1月1日価格・全国平均"
   }
 ]

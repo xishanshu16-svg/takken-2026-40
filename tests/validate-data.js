@@ -8,5 +8,5 @@ for(const q of qs){for(const key of ['id','number','set','field','theme','import
 for(let n=1;n<=50;n++){const q=exam.find(q=>q.number===n);assert.ok(q,'missing exam '+n);assert.equal(q.set,'exam');assert.equal(q.field,n<=14?'権利関係':n<=22?'法令上の制限':n<=25?'税・その他':n<=45?'宅建業法':'税・その他');}
 const counts=Object.fromEntries(['権利関係','法令上の制限','税・その他','宅建業法'].map(f=>[f,exam.filter(q=>q.field===f).length]));assert.deepEqual(Object.values(counts),[14,8,8,20]);
 const distribution=[1,2,3,4].map(n=>qs.filter(q=>q.answer===n).length);assert.ok(distribution.every(n=>n>=10&&n<=40),'正解位置に大きな偏り');
-const points=read('data/study-points.json');assert.ok(points.length>=30);assert.ok(points.every(p=>qs.some(q=>q.id===p.questionId)));
-console.log(JSON.stringify({status:'PASS',questions:qs.length,exam:exam.length,extra:extra.length,explanations:qs.length*4,examFields:counts,answerDistribution:distribution,pdfReferences:'物理ページ範囲と必須項目を検証',note:'法的正誤は分野別公式照合および内容レビュー。構造テストで正解の唯一性を証明するものではない。'},null,2));
+const points=read('data/study-points.json');assert.equal(points.length,40);assert.equal(new Set(points.map(p=>p.questionId)).size,40);assert.ok(points.every(p=>exam.some(q=>q.id===p.questionId)));
+console.log(JSON.stringify({status:'PASS',publishedQuestions:exam.length,archivedExtra:extra.length,publishedExplanations:exam.length*4,memoryPoints:points.length,examFields:counts,answerDistribution:distribution,pdfReferences:'物理ページ範囲と必須項目を検証',note:'法的正誤は分野別公式照合および内容レビュー。構造テストで正解の唯一性を証明するものではない。'},null,2));

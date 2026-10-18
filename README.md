@@ -2,8 +2,9 @@
 
 2026年度宅地建物取引士試験で40点を目指す、日本語の静的学習アプリです。ログイン不要、フレームワーク・外部AI API・実行時の外部ライブラリ不要。的中・40点・合格を保証する教材ではありません。
 
-**公開アプリ:** https://takken-2026-40.pages.dev/  
-**分析レポート:** https://takken-2026-40.pages.dev/reports/study-report.html
+**公開アプリ:** [学習アプリを開く](https://takken-2026-40.pages.dev/)
+
+**分析レポート:** [出題候補と得点戦略を読む](https://takken-2026-40.pages.dev/reports/study-report.html)
 
 ## 収録内容
 

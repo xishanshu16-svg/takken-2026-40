@@ -10,4 +10,5 @@ const points=qs.filter(q=>q.importance==='A').sort((a,b)=>priority[a.field]-prio
 write('data/study-points.json',points);
 const analyses=Object.fromEntries(['brokerage','civil','regulations-tax'].map(name=>[{'brokerage':'宅建業法','civil':'権利関係','regulations-tax':'法令上の制限・税その他'}[name],read('reports/'+name+'-analysis.json')]));
 write('reports/analysis.json',analyses);
+await import('./create-report.js');
 console.log(`教材生成: 本試験${qs.filter(q=>q.set==='exam').length}問 + 追加${qs.filter(q=>q.set==='extra').length}問、暗記${points.length}項目`);

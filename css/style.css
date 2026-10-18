@@ -9,3 +9,5 @@
 @media print{.sidebar,.topbar,.mobile-nav,.actions,.quiz-footer,.favorite,footer,#toast{display:none!important}.app-shell{margin:0}main{padding:0;max-width:none}.panel,.question{break-inside:avoid}.print-only{display:block}details>*{display:block}.hero{background:white;color:black}}
 
 .keep{display:inline-block}
+
+.source-report td{white-space:normal;min-width:80px;line-height:1.8}.source-report td:nth-child(2){min-width:150px}

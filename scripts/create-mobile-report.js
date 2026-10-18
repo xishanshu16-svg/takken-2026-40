@@ -6,7 +6,7 @@ const qs=read('data/exam-2026.json'),points=read('data/study-points.json');
 const e=x=>String(x??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const fields=['宅建業法','法令上の制限','権利関係','税・その他'];
 const refs=[...new Map(qs.flatMap(q=>q.sources).map(s=>[s.url,s])).values()];
-const html=`<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>これだけ覚える40・厳選50問 | 2026宅建40点突破AI</title><meta name="description" content="携帯向け宅建教材。覚える40の要点と、その内容を確認する50問。"><link rel="stylesheet" href="../css/style.css"><link rel="stylesheet" href="../css/mobile-focus.css"></head><body class="focus-report">
+const html=`<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>これだけ覚える40・厳選50問 | 2026宅建40点突破AI</title><meta name="description" content="携帯向け宅建教材。覚える40の要点と、その内容を確認する50問。"><link rel="stylesheet" href="../css/style.css"><link rel="stylesheet" href="../css/mobile-focus.css"><link rel="stylesheet" href="../css/clear-study.css"></head><body class="focus-report">
 <header class="report-header"><a href="../#home">宅建40点突破 <small>2026</small></a><a href="../#practice">50問を解く →</a></header>
 <main><section class="focus-intro"><span class="focus-kicker">携帯で学ぶ / 50問だけに集中</span><h1>これだけ覚える40。<br>確認する問題は50問。</h1><p>先に基本ルールを覚え、問題で確認します。<br>目標は40 / 50点。まずは業法から。</p></section>
 <div class="report-jump"><a href="#remember">① 覚える40</a><a href="#questions">② 解く50問</a><a href="../#review">③ 間違いを復習</a></div>

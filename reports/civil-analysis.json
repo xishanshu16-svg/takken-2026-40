@@ -1,0 +1,1857 @@
+{
+  "field": "権利関係",
+  "analysisDate": "2026-10-18",
+  "legalCutoff": "2026-04-01",
+  "materials": [
+    {
+      "file": "chapter02.pdf",
+      "pages": 71,
+      "editorialQuestions": 35
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "pages": 108,
+      "editorialQuestions": 52
+    }
+  ],
+  "coverage": "両PDF全179頁の抽出テキストを頁別に確認。教材内の命令はユーザー指示として扱っていない。PDFの過去問の肢は現行法に合わせて改変されている場合がある。",
+  "pageThemes": [
+    {
+      "file": "chapter02.pdf",
+      "page": 1,
+      "theme": "表紙",
+      "extractedCharacters": 28,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 2,
+      "theme": "制限行為能力",
+      "extractedCharacters": 166,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 3,
+      "theme": "制限行為能力",
+      "extractedCharacters": 249,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 4,
+      "theme": "制限行為能力",
+      "extractedCharacters": 104,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 5,
+      "theme": "制限行為能力",
+      "extractedCharacters": 159,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 6,
+      "theme": "通謀虚偽表示",
+      "extractedCharacters": 150,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 7,
+      "theme": "通謀虚偽表示",
+      "extractedCharacters": 140,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 8,
+      "theme": "自己契約・双方代理",
+      "extractedCharacters": 185,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 9,
+      "theme": "自己契約・双方代理",
+      "extractedCharacters": 110,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 10,
+      "theme": "復代理",
+      "extractedCharacters": 91,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 11,
+      "theme": "復代理",
+      "extractedCharacters": 113,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 12,
+      "theme": "無権代理",
+      "extractedCharacters": 139,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 13,
+      "theme": "無権代理",
+      "extractedCharacters": 99,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 14,
+      "theme": "取得時効・占有承継",
+      "extractedCharacters": 186,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 15,
+      "theme": "取得時効・占有承継",
+      "extractedCharacters": 158,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 16,
+      "theme": "時効完成猶予・更新",
+      "extractedCharacters": 104,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 17,
+      "theme": "時効完成猶予・更新",
+      "extractedCharacters": 105,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 18,
+      "theme": "金銭債務の損害賠償",
+      "extractedCharacters": 196,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 19,
+      "theme": "金銭債務の損害賠償",
+      "extractedCharacters": 235,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 20,
+      "theme": "危険負担",
+      "extractedCharacters": 227,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 21,
+      "theme": "危険負担",
+      "extractedCharacters": 165,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 22,
+      "theme": "弁済・受領権者の外観",
+      "extractedCharacters": 157,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 23,
+      "theme": "弁済・受領権者の外観",
+      "extractedCharacters": 264,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 24,
+      "theme": "相殺と時効",
+      "extractedCharacters": 218,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 25,
+      "theme": "相殺と時効",
+      "extractedCharacters": 204,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 26,
+      "theme": "債権譲渡の対抗要件",
+      "extractedCharacters": 204,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 27,
+      "theme": "債権譲渡の対抗要件",
+      "extractedCharacters": 211,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 28,
+      "theme": "売買の契約不適合責任",
+      "extractedCharacters": 150,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 29,
+      "theme": "売買の契約不適合責任",
+      "extractedCharacters": 179,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 30,
+      "theme": "売買の契約不適合責任",
+      "extractedCharacters": 217,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 31,
+      "theme": "売買の契約不適合責任",
+      "extractedCharacters": 216,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 32,
+      "theme": "二重譲渡と登記",
+      "extractedCharacters": 175,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 33,
+      "theme": "二重譲渡と登記",
+      "extractedCharacters": 151,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 34,
+      "theme": "取得時効と登記",
+      "extractedCharacters": 130,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 35,
+      "theme": "取得時効と登記",
+      "extractedCharacters": 119,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 36,
+      "theme": "抵当権の順位変更",
+      "extractedCharacters": 74,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 37,
+      "theme": "抵当権の順位変更",
+      "extractedCharacters": 167,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 38,
+      "theme": "抵当権消滅請求",
+      "extractedCharacters": 123,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 39,
+      "theme": "抵当権消滅請求",
+      "extractedCharacters": 122,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 40,
+      "theme": "連帯債務の相対効",
+      "extractedCharacters": 137,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 41,
+      "theme": "連帯債務の相対効",
+      "extractedCharacters": 216,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 42,
+      "theme": "通常保証・催告の抗弁",
+      "extractedCharacters": 170,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 43,
+      "theme": "通常保証・催告の抗弁",
+      "extractedCharacters": 203,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 44,
+      "theme": "適法転貸と解除",
+      "extractedCharacters": 177,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 45,
+      "theme": "適法転貸と解除",
+      "extractedCharacters": 155,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 46,
+      "theme": "適法転貸と解除",
+      "extractedCharacters": 163,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 47,
+      "theme": "適法転貸と解除",
+      "extractedCharacters": 144,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 48,
+      "theme": "借地権の期間",
+      "extractedCharacters": 207,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 49,
+      "theme": "借地権の期間",
+      "extractedCharacters": 270,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 50,
+      "theme": "借地権の対抗要件",
+      "extractedCharacters": 149,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 51,
+      "theme": "借地権の対抗要件",
+      "extractedCharacters": 183,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 52,
+      "theme": "事業用定期借地権",
+      "extractedCharacters": 128,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 53,
+      "theme": "事業用定期借地権",
+      "extractedCharacters": 128,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 54,
+      "theme": "普通借家の更新・解約",
+      "extractedCharacters": 199,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 55,
+      "theme": "普通借家の更新・解約",
+      "extractedCharacters": 188,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 56,
+      "theme": "普通借家の更新・解約",
+      "extractedCharacters": 181,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 57,
+      "theme": "普通借家の更新・解約",
+      "extractedCharacters": 259,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 58,
+      "theme": "借家の対抗要件",
+      "extractedCharacters": 192,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 59,
+      "theme": "借家の対抗要件",
+      "extractedCharacters": 168,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 60,
+      "theme": "請負人の担保責任",
+      "extractedCharacters": 107,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 61,
+      "theme": "請負人の担保責任",
+      "extractedCharacters": 121,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 62,
+      "theme": "使用者責任・求償",
+      "extractedCharacters": 190,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 63,
+      "theme": "使用者責任・求償",
+      "extractedCharacters": 164,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 64,
+      "theme": "相続の限定承認",
+      "extractedCharacters": 112,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 65,
+      "theme": "相続の限定承認",
+      "extractedCharacters": 94,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 66,
+      "theme": "共有物分割と不分割特約",
+      "extractedCharacters": 103,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 67,
+      "theme": "共有物分割と不分割特約",
+      "extractedCharacters": 128,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 68,
+      "theme": "改正区分所有法・集会招集",
+      "extractedCharacters": 115,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 69,
+      "theme": "改正区分所有法・集会招集",
+      "extractedCharacters": 190,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 70,
+      "theme": "建物表題登記",
+      "extractedCharacters": 123,
+      "textRead": true
+    },
+    {
+      "file": "chapter02.pdf",
+      "page": 71,
+      "theme": "建物表題登記",
+      "extractedCharacters": 147,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 1,
+      "theme": "表紙",
+      "extractedCharacters": 27,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 2,
+      "theme": "制限行為能力・詐術",
+      "extractedCharacters": 163,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ20－問1④"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 3,
+      "theme": "制限行為能力・詐術",
+      "extractedCharacters": 117,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 4,
+      "theme": "第三者詐欺",
+      "extractedCharacters": 187,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ23－問1②"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 5,
+      "theme": "第三者詐欺",
+      "extractedCharacters": 95,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 6,
+      "theme": "基礎事情の錯誤",
+      "extractedCharacters": 175,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ23－問1①"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 7,
+      "theme": "基礎事情の錯誤",
+      "extractedCharacters": 93,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 8,
+      "theme": "未成年の代理人",
+      "extractedCharacters": 122,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ24－問2①改"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 9,
+      "theme": "未成年の代理人",
+      "extractedCharacters": 92,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 10,
+      "theme": "代理権濫用",
+      "extractedCharacters": 220,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ30－問2①"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 11,
+      "theme": "代理権濫用",
+      "extractedCharacters": 116,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 12,
+      "theme": "双方代理の許諾",
+      "extractedCharacters": 156,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ24－問2③"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 13,
+      "theme": "双方代理の許諾",
+      "extractedCharacters": 123,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 14,
+      "theme": "任意代理の復代理選任責任",
+      "extractedCharacters": 160,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ19－問2②"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 15,
+      "theme": "任意代理の復代理選任責任",
+      "extractedCharacters": 95,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 16,
+      "theme": "無権代理と本人の単独相続",
+      "extractedCharacters": 205,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ24－問4②"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 17,
+      "theme": "無権代理と本人の単独相続",
+      "extractedCharacters": 90,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 18,
+      "theme": "代理権消滅後の表見代理",
+      "extractedCharacters": 138,
+      "textRead": true,
+      "printedPastExamReference": "Q R3（12月）－問5④"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 19,
+      "theme": "代理権消滅後の表見代理",
+      "extractedCharacters": 80,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 20,
+      "theme": "取得時効・占有承継",
+      "extractedCharacters": 228,
+      "textRead": true,
+      "printedPastExamReference": "Q R2（10月）－問10③改"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 21,
+      "theme": "取得時効・占有承継",
+      "extractedCharacters": 157,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 22,
+      "theme": "催告と時効完成猶予",
+      "extractedCharacters": 152,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ21－問3③改"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 23,
+      "theme": "催告と時効完成猶予",
+      "extractedCharacters": 128,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 24,
+      "theme": "二重譲渡による債務不履行",
+      "extractedCharacters": 146,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ24－問8③"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 25,
+      "theme": "二重譲渡による債務不履行",
+      "extractedCharacters": 121,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 26,
+      "theme": "解除の原状回復と同時履行",
+      "extractedCharacters": 253,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ21－問8③"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 27,
+      "theme": "解除の原状回復と同時履行",
+      "extractedCharacters": 79,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 28,
+      "theme": "外観ある受領権者への弁済",
+      "extractedCharacters": 165,
+      "textRead": true,
+      "printedPastExamReference": "Q R1－問7②"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 29,
+      "theme": "外観ある受領権者への弁済",
+      "extractedCharacters": 148,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 30,
+      "theme": "自働債権の弁済期",
+      "extractedCharacters": 184,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｒ５－問44㋓改"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 31,
+      "theme": "自働債権の弁済期",
+      "extractedCharacters": 133,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 32,
+      "theme": "被害者側からの相殺",
+      "extractedCharacters": 203,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ16－問8②改"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 33,
+      "theme": "被害者側からの相殺",
+      "extractedCharacters": 208,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 34,
+      "theme": "債権二重譲渡の優劣",
+      "extractedCharacters": 197,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ23－問5④"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 35,
+      "theme": "債権二重譲渡の優劣",
+      "extractedCharacters": 118,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 36,
+      "theme": "手付解除と相手方の履行着手",
+      "extractedCharacters": 162,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ21－問10②"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 37,
+      "theme": "手付解除と相手方の履行着手",
+      "extractedCharacters": 109,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 38,
+      "theme": "二重譲渡と登記",
+      "extractedCharacters": 189,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ22－問4①"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 39,
+      "theme": "二重譲渡と登記",
+      "extractedCharacters": 82,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 40,
+      "theme": "取得時効と登記（見出しは解除と登記）",
+      "extractedCharacters": 139,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ24－問6①"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 41,
+      "theme": "取得時効と登記（見出しは解除と登記）",
+      "extractedCharacters": 96,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 42,
+      "theme": "抵当権の物上代位",
+      "extractedCharacters": 223,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ22－問5②"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 43,
+      "theme": "抵当権の物上代位",
+      "extractedCharacters": 129,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 44,
+      "theme": "保証人と抵当権消滅請求",
+      "extractedCharacters": 123,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ21－問6①"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 45,
+      "theme": "保証人と抵当権消滅請求",
+      "extractedCharacters": 96,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 46,
+      "theme": "法定地上権",
+      "extractedCharacters": 179,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ21－問7③"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 47,
+      "theme": "法定地上権",
+      "extractedCharacters": 99,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 48,
+      "theme": "保証契約の方式",
+      "extractedCharacters": 129,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ22－問8②"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 49,
+      "theme": "保証契約の方式",
+      "extractedCharacters": 86,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 50,
+      "theme": "連帯債務と連帯保証の時効完成",
+      "extractedCharacters": 240,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ20－問6③改"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 51,
+      "theme": "連帯債務と連帯保証の時効完成",
+      "extractedCharacters": 115,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 52,
+      "theme": "連帯債務と連帯保証の時効完成",
+      "extractedCharacters": 255,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 53,
+      "theme": "連帯債務と連帯保証の時効完成",
+      "extractedCharacters": 24,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 54,
+      "theme": "無断転貸と信頼関係",
+      "extractedCharacters": 166,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ25－問11①"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 55,
+      "theme": "無断転貸と信頼関係",
+      "extractedCharacters": 113,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 56,
+      "theme": "賃貸人地位移転と敷金承継",
+      "extractedCharacters": 166,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ20－問10②"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 57,
+      "theme": "賃貸人地位移転と敷金承継",
+      "extractedCharacters": 138,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 58,
+      "theme": "借地借家法の適用と期間",
+      "extractedCharacters": 244,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ20－問13①"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 59,
+      "theme": "借地借家法の適用と期間",
+      "extractedCharacters": 250,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 60,
+      "theme": "借地の更新拒絶と正当事由",
+      "extractedCharacters": 132,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ25－問12②"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 61,
+      "theme": "借地の更新拒絶と正当事由",
+      "extractedCharacters": 118,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 62,
+      "theme": "借地権対抗要件と表題登記",
+      "extractedCharacters": 158,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ24－問11①"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 63,
+      "theme": "借地権対抗要件と表題登記",
+      "extractedCharacters": 152,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 64,
+      "theme": "譲渡承諾に代わる許可の申立人",
+      "extractedCharacters": 229,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ23－問11③"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 65,
+      "theme": "譲渡承諾に代わる許可の申立人",
+      "extractedCharacters": 96,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 66,
+      "theme": "事業用定期借地権の公正証書",
+      "extractedCharacters": 146,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ22－問11②"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 67,
+      "theme": "事業用定期借地権の公正証書",
+      "extractedCharacters": 94,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 68,
+      "theme": "造作買取請求権の放棄特約",
+      "extractedCharacters": 172,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ23－問12①"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 69,
+      "theme": "造作買取請求権の放棄特約",
+      "extractedCharacters": 93,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 70,
+      "theme": "建物引渡しによる借家対抗力",
+      "extractedCharacters": 216,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ22－問12①"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 71,
+      "theme": "建物引渡しによる借家対抗力",
+      "extractedCharacters": 115,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 72,
+      "theme": "賃料増額請求と支払額",
+      "extractedCharacters": 202,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ16－問14④"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 73,
+      "theme": "賃料増額請求と支払額",
+      "extractedCharacters": 105,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 74,
+      "theme": "債務不履行解除と転借人",
+      "extractedCharacters": 236,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ25－問11②"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 75,
+      "theme": "債務不履行解除と転借人",
+      "extractedCharacters": 132,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 76,
+      "theme": "定期借家の事前説明",
+      "extractedCharacters": 235,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ20－問14②改"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 77,
+      "theme": "定期借家の事前説明",
+      "extractedCharacters": 206,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 78,
+      "theme": "請負人免責特約の限界",
+      "extractedCharacters": 139,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ18－問6④改"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 79,
+      "theme": "請負人免責特約の限界",
+      "extractedCharacters": 129,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 80,
+      "theme": "不法行為損害賠償の時効",
+      "extractedCharacters": 106,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ19－問5④"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 81,
+      "theme": "不法行為損害賠償の時効",
+      "extractedCharacters": 153,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 82,
+      "theme": "使用者責任と被用者本人の責任",
+      "extractedCharacters": 158,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ18－問11①"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 83,
+      "theme": "使用者責任と被用者本人の責任",
+      "extractedCharacters": 165,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 84,
+      "theme": "法定相続順位と相続分",
+      "extractedCharacters": 210,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ24－問10③改"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 85,
+      "theme": "法定相続順位と相続分",
+      "extractedCharacters": 92,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 86,
+      "theme": "法定相続分の第三者対抗",
+      "extractedCharacters": 140,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ30－問10②"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 87,
+      "theme": "法定相続分の第三者対抗",
+      "extractedCharacters": 93,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 88,
+      "theme": "自筆証書遺言と財産目録",
+      "extractedCharacters": 135,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ22－問10①改"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 89,
+      "theme": "自筆証書遺言と財産目録",
+      "extractedCharacters": 113,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 90,
+      "theme": "共有持分の放棄",
+      "extractedCharacters": 126,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ19－問4④"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 91,
+      "theme": "共有持分の放棄",
+      "extractedCharacters": 67,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 92,
+      "theme": "共有者の損害賠償請求範囲",
+      "extractedCharacters": 159,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ18－問4②"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 93,
+      "theme": "共有者の損害賠償請求範囲",
+      "extractedCharacters": 89,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 94,
+      "theme": "改正区分所有法・共用部分重大変更の定足数",
+      "extractedCharacters": 265,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ24－問13②改"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 95,
+      "theme": "改正区分所有法・共用部分重大変更の定足数",
+      "extractedCharacters": 29,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 96,
+      "theme": "改正区分所有法・共用部分重大変更の定足数",
+      "extractedCharacters": 167,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 97,
+      "theme": "規約の保管場所掲示",
+      "extractedCharacters": 100,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ19－問15④"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 98,
+      "theme": "規約の保管場所掲示",
+      "extractedCharacters": 64,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 99,
+      "theme": "集会の年1回招集義務",
+      "extractedCharacters": 165,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ20－問15①改"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 100,
+      "theme": "集会の年1回招集義務",
+      "extractedCharacters": 67,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 101,
+      "theme": "集会を開かない書面決議",
+      "extractedCharacters": 146,
+      "textRead": true,
+      "printedPastExamReference": "Q R3（10月）－問13①改"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 102,
+      "theme": "集会を開かない書面決議",
+      "extractedCharacters": 96,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 103,
+      "theme": "相続登記の単独申請",
+      "extractedCharacters": 99,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ17－問16②"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 104,
+      "theme": "相続登記の単独申請",
+      "extractedCharacters": 100,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 105,
+      "theme": "配偶者居住権の登記",
+      "extractedCharacters": 87,
+      "textRead": true,
+      "printedPastExamReference": "Q R2（10月）－問14④"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 106,
+      "theme": "配偶者居住権の登記",
+      "extractedCharacters": 79,
+      "textRead": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 107,
+      "theme": "承諾ある仮登記の単独申請",
+      "extractedCharacters": 106,
+      "textRead": true,
+      "printedPastExamReference": "Q Ｈ20－問16②"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 108,
+      "theme": "承諾ある仮登記の単独申請",
+      "extractedCharacters": 96,
+      "textRead": true
+    }
+  ],
+  "pastExamReferences": [
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 2,
+      "theme": "制限行為能力・詐術",
+      "referenceAsPrinted": "Q Ｈ20－問1④",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 4,
+      "theme": "第三者詐欺",
+      "referenceAsPrinted": "Q Ｈ23－問1②",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 6,
+      "theme": "基礎事情の錯誤",
+      "referenceAsPrinted": "Q Ｈ23－問1①",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 8,
+      "theme": "未成年の代理人",
+      "referenceAsPrinted": "Q Ｈ24－問2①改",
+      "adapted": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 10,
+      "theme": "代理権濫用",
+      "referenceAsPrinted": "Q Ｈ30－問2①",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 12,
+      "theme": "双方代理の許諾",
+      "referenceAsPrinted": "Q Ｈ24－問2③",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 14,
+      "theme": "任意代理の復代理選任責任",
+      "referenceAsPrinted": "Q Ｈ19－問2②",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 16,
+      "theme": "無権代理と本人の単独相続",
+      "referenceAsPrinted": "Q Ｈ24－問4②",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 18,
+      "theme": "代理権消滅後の表見代理",
+      "referenceAsPrinted": "Q R3（12月）－問5④",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 20,
+      "theme": "取得時効・占有承継",
+      "referenceAsPrinted": "Q R2（10月）－問10③改",
+      "adapted": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 22,
+      "theme": "催告と時効完成猶予",
+      "referenceAsPrinted": "Q Ｈ21－問3③改",
+      "adapted": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 24,
+      "theme": "二重譲渡による債務不履行",
+      "referenceAsPrinted": "Q Ｈ24－問8③",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 26,
+      "theme": "解除の原状回復と同時履行",
+      "referenceAsPrinted": "Q Ｈ21－問8③",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 28,
+      "theme": "外観ある受領権者への弁済",
+      "referenceAsPrinted": "Q R1－問7②",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 30,
+      "theme": "自働債権の弁済期",
+      "referenceAsPrinted": "Q Ｒ５－問44㋓改",
+      "adapted": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 32,
+      "theme": "被害者側からの相殺",
+      "referenceAsPrinted": "Q Ｈ16－問8②改",
+      "adapted": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 34,
+      "theme": "債権二重譲渡の優劣",
+      "referenceAsPrinted": "Q Ｈ23－問5④",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 36,
+      "theme": "手付解除と相手方の履行着手",
+      "referenceAsPrinted": "Q Ｈ21－問10②",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 38,
+      "theme": "二重譲渡と登記",
+      "referenceAsPrinted": "Q Ｈ22－問4①",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 40,
+      "theme": "取得時効と登記（見出しは解除と登記）",
+      "referenceAsPrinted": "Q Ｈ24－問6①",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 42,
+      "theme": "抵当権の物上代位",
+      "referenceAsPrinted": "Q Ｈ22－問5②",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 44,
+      "theme": "保証人と抵当権消滅請求",
+      "referenceAsPrinted": "Q Ｈ21－問6①",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 46,
+      "theme": "法定地上権",
+      "referenceAsPrinted": "Q Ｈ21－問7③",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 48,
+      "theme": "保証契約の方式",
+      "referenceAsPrinted": "Q Ｈ22－問8②",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 50,
+      "theme": "連帯債務と連帯保証の時効完成",
+      "referenceAsPrinted": "Q Ｈ20－問6③改",
+      "adapted": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 54,
+      "theme": "無断転貸と信頼関係",
+      "referenceAsPrinted": "Q Ｈ25－問11①",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 56,
+      "theme": "賃貸人地位移転と敷金承継",
+      "referenceAsPrinted": "Q Ｈ20－問10②",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 58,
+      "theme": "借地借家法の適用と期間",
+      "referenceAsPrinted": "Q Ｈ20－問13①",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 60,
+      "theme": "借地の更新拒絶と正当事由",
+      "referenceAsPrinted": "Q Ｈ25－問12②",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 62,
+      "theme": "借地権対抗要件と表題登記",
+      "referenceAsPrinted": "Q Ｈ24－問11①",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 64,
+      "theme": "譲渡承諾に代わる許可の申立人",
+      "referenceAsPrinted": "Q Ｈ23－問11③",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 66,
+      "theme": "事業用定期借地権の公正証書",
+      "referenceAsPrinted": "Q Ｈ22－問11②",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 68,
+      "theme": "造作買取請求権の放棄特約",
+      "referenceAsPrinted": "Q Ｈ23－問12①",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 70,
+      "theme": "建物引渡しによる借家対抗力",
+      "referenceAsPrinted": "Q Ｈ22－問12①",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 72,
+      "theme": "賃料増額請求と支払額",
+      "referenceAsPrinted": "Q Ｈ16－問14④",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 74,
+      "theme": "債務不履行解除と転借人",
+      "referenceAsPrinted": "Q Ｈ25－問11②",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 76,
+      "theme": "定期借家の事前説明",
+      "referenceAsPrinted": "Q Ｈ20－問14②改",
+      "adapted": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 78,
+      "theme": "請負人免責特約の限界",
+      "referenceAsPrinted": "Q Ｈ18－問6④改",
+      "adapted": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 80,
+      "theme": "不法行為損害賠償の時効",
+      "referenceAsPrinted": "Q Ｈ19－問5④",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 82,
+      "theme": "使用者責任と被用者本人の責任",
+      "referenceAsPrinted": "Q Ｈ18－問11①",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 84,
+      "theme": "法定相続順位と相続分",
+      "referenceAsPrinted": "Q Ｈ24－問10③改",
+      "adapted": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 86,
+      "theme": "法定相続分の第三者対抗",
+      "referenceAsPrinted": "Q Ｈ30－問10②",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 88,
+      "theme": "自筆証書遺言と財産目録",
+      "referenceAsPrinted": "Q Ｈ22－問10①改",
+      "adapted": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 90,
+      "theme": "共有持分の放棄",
+      "referenceAsPrinted": "Q Ｈ19－問4④",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 92,
+      "theme": "共有者の損害賠償請求範囲",
+      "referenceAsPrinted": "Q Ｈ18－問4②",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 94,
+      "theme": "改正区分所有法・共用部分重大変更の定足数",
+      "referenceAsPrinted": "Q Ｈ24－問13②改",
+      "adapted": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 97,
+      "theme": "規約の保管場所掲示",
+      "referenceAsPrinted": "Q Ｈ19－問15④",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 99,
+      "theme": "集会の年1回招集義務",
+      "referenceAsPrinted": "Q Ｈ20－問15①改",
+      "adapted": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 101,
+      "theme": "集会を開かない書面決議",
+      "referenceAsPrinted": "Q R3（10月）－問13①改",
+      "adapted": true
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 103,
+      "theme": "相続登記の単独申請",
+      "referenceAsPrinted": "Q Ｈ17－問16②",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 105,
+      "theme": "配偶者居住権の登記",
+      "referenceAsPrinted": "Q R2（10月）－問14④",
+      "adapted": false
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "page": 107,
+      "theme": "承諾ある仮登記の単独申請",
+      "referenceAsPrinted": "Q Ｈ20－問16②",
+      "adapted": false
+    }
+  ],
+  "repetition": {
+    "scope": "ex_chapter02.pdf に編集掲載された52題を各1件で大分類集計。全国本試験の全問題・全年度の出題頻度ではない。",
+    "editorialCounts": {
+      "制限行為能力": 1,
+      "意思表示": 2,
+      "代理": 6,
+      "時効": 3,
+      "売買・債務不履行・解除": 5,
+      "弁済・相殺・債権譲渡": 4,
+      "不動産登記・対抗関係": 3,
+      "抵当権": 3,
+      "連帯債務・保証": 2,
+      "借地借家・賃貸借": 10,
+      "請負": 1,
+      "不法行為": 2,
+      "相続・遺言": 4,
+      "共有": 2,
+      "区分所有法": 4
+    },
+    "chapter02Note": "chapter02は35題。問題頁と解説頁を二重に数えない。大分類は分析上の整理であり出版社の公式分類ではない。"
+  },
+  "decisionPoints": [
+    "意思表示：虚偽表示の善意、錯誤・詐欺の善意無過失、第三者詐欺の相手方の認識を分ける。",
+    "代理：本人の事前許諾、任意代理と法定代理、無権代理の追認と相手方取消しを確認。",
+    "時効：完成猶予と更新、起算点、援用、占有開始時の認識と承継を分ける。",
+    "売買・解除：帰責事由を要する賠償と、不要な解除・追完を区別。品質通知は知って1年。",
+    "借地借家：目的、期間、対抗要件、正当事由、定期方式・事前説明を別々に確認。",
+    "区分所有法：招集開始日と決議対象から適用法・定足数・母数を特定。",
+    "登記：表題と保存、単独と共同、住所変更2年と相続3年を区別。"
+  ],
+  "distractorPatterns": [
+    "原則を例外なしの「常に」「一切」にする",
+    "相手方と本人、貸主と借主、被害者と加害者を入れ替える",
+    "善意と善意無過失を入れ替える",
+    "通知と訴え提起、許諾と追認、表題と保存を入れ替える",
+    "3か月と6か月、借地30・20・10年、登記2年と3年を取り違える",
+    "旧法の規律を改正後に持ち込む（連帯債務免除・区分所有決議母数）"
+  ],
+  "priority": [
+    {
+      "importance": "A",
+      "themes": [
+        "代理",
+        "借地借家",
+        "意思表示",
+        "時効",
+        "契約不適合",
+        "抵当権",
+        "共有",
+        "相続基礎",
+        "改正区分所有法",
+        "住所等変更登記"
+      ],
+      "reason": "要件・例外・期限の基本判断を優先し、法改正で旧知識との混同を防ぐ。"
+    },
+    {
+      "importance": "B",
+      "themes": [
+        "不法行為",
+        "請負",
+        "自筆証書遺言",
+        "周辺論点"
+      ],
+      "reason": "基本事項を押さえた後に追加問題で補強。"
+    },
+    {
+      "importance": "C",
+      "themes": [
+        "資料外の複雑な判例展開・再生手続の細部"
+      ],
+      "reason": "40点戦略では細部より基本問題の安定を優先。出題されないという意味ではない。"
+    }
+  ],
+  "scoreStrategy": {
+    "target": 10,
+    "total": 14,
+    "approach": "借地借家・代理・意思表示・登記・相続基礎の要件比較を反復。難問で時間を使いすぎず、模試で誤ったテーマを追加問題で補う。10点は学習目標であり保証ではない。"
+  },
+  "amendments": [
+    {
+      "theme": "区分所有法",
+      "effective": "2026-04-01",
+      "applies": "同日以後に招集手続を開始する集会に改正後の集会規律。",
+      "details": [
+        "普通決議は原則出席者とその議決権の各過半数。",
+        "規約変更は原則各過半数出席・出席者と議決権の各4分の3以上。",
+        "招集通知は議案の要領も必要、少なくとも1週間前、規約で短縮不可。",
+        "共用部分重大変更は17条の定足数・賛成割合を区別。規約緩和・特定変更特則もあり、一律断定を避ける。"
+      ],
+      "sources": [
+        "https://www.moj.go.jp/MINJI/minji07_00375.html",
+        "https://www.moj.go.jp/content/001454322.pdf",
+        "https://laws.e-gov.go.jp/law/337AC0000000069/20260401_507AC0000000047"
+      ]
+    },
+    {
+      "theme": "住所等変更登記",
+      "effective": "2026-04-01",
+      "details": [
+        "所有権登記名義人の住所・氏名・名称変更から2年以内に申請義務。",
+        "正当な理由なく違反した場合は5万円以下の過料。",
+        "施行前変更の経過措置や職権登記があるため、追加64問は施行後変更・職権登記等なしと明示。"
+      ],
+      "sources": [
+        "https://www.moj.go.jp/MINJI/minji05_00687.html",
+        "https://laws.e-gov.go.jp/law/416AC0000000123/20260401_506AC0000000030"
+      ]
+    }
+  ],
+  "materialCautions": [
+    {
+      "file": "ex_chapter02.pdf",
+      "pages": [
+        40,
+        41
+      ],
+      "finding": "見出しは「解除と登記」だが、問題本文は取得時効完成前の第三者との対抗関係。本文に従い取得時効と分類。"
+    },
+    {
+      "file": "ex_chapter02.pdf",
+      "pages": [
+        94,
+        95,
+        96
+      ],
+      "finding": "設問は共用部分重大変更の規約による賛成割合緩和を記載するが、解説は各4分の3以上と短く一般化。現行17条の原則・緩和・5項特則を分ける。規約変更31条の要件とは別。"
+    },
+    {
+      "file": "chapter02.pdf",
+      "pages": [
+        11,
+        15,
+        17,
+        19,
+        21
+      ],
+      "finding": "抽出テキストに別設問の語句が重なったような断片がある。生成問題は断片を根拠にせず公式条文で判定。画像全頁の目視確認は行っていない。"
+    }
+  ],
+  "statuteVersions": [
+    {
+      "title": "民法",
+      "revision": "129AC0000000089_20260401_506AC0000000033"
+    },
+    {
+      "title": "借地借家法",
+      "revision": "403AC0000000090_20230614_505AC0000000053"
+    },
+    {
+      "title": "区分所有法",
+      "revision": "337AC0000000069_20260401_507AC0000000047"
+    },
+    {
+      "title": "不動産登記法",
+      "revision": "416AC0000000123_20260401_506AC0000000030"
+    }
+  ],
+  "verification": {
+    "method": "e-Gov法令API v2の履歴から2026-04-01以前の最新施行版を選択し、v1 lawdataで該当版XMLを取得、関連条文を確認。法務省公式改正ページも照合。",
+    "questions": 28,
+    "exam": 14,
+    "extra": 14,
+    "explanations": 112,
+    "uncertainQuestions": [],
+    "limitations": "教材抜粋から全国試験の的中率・出題確率は算出していない。法律専門家の第三者監修を受けたとの表示は行わない。"
+  }
+}

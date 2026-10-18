@@ -1,0 +1,13 @@
+import fs from 'node:fs';
+const root=new URL('../',import.meta.url);
+const read=p=>JSON.parse(fs.readFileSync(new URL(p,root),'utf8'));
+const write=(p,x)=>fs.writeFileSync(new URL(p,root),JSON.stringify(x,null,2)+'\n');
+const qs=['brokerage','civil','regulations-tax'].flatMap(name=>read('data/'+name+'.json'));
+write('data/exam-2026.json',qs.filter(q=>q.set==='exam').sort((a,b)=>a.number-b.number));
+write('data/extra-questions.json',qs.filter(q=>q.set==='extra').sort((a,b)=>a.number-b.number));
+const priority={'宅建業法':0,'法令上の制限':1,'権利関係':2,'税・その他':3};
+const points=qs.filter(q=>q.importance==='A').sort((a,b)=>priority[a.field]-priority[b.field]||a.number-b.number).map(q=>({questionId:q.id,theme:q.theme,field:q.field,importance:q.importance,point:q.point,law:q.law,articles:q.articles}));
+write('data/study-points.json',points);
+const analyses=Object.fromEntries(['brokerage','civil','regulations-tax'].map(name=>[{'brokerage':'宅建業法','civil':'権利関係','regulations-tax':'法令上の制限・税その他'}[name],read('reports/'+name+'-analysis.json')]));
+write('reports/analysis.json',analyses);
+console.log(`教材生成: 本試験${qs.filter(q=>q.set==='exam').length}問 + 追加${qs.filter(q=>q.set==='extra').length}問、暗記${points.length}項目`);

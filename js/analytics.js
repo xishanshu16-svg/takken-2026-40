@@ -1,0 +1,4 @@
+import {FIELDS} from './scoring.js';
+export function fieldStats(questions,state){return FIELDS.map(field=>{const qs=questions.filter(q=>q.field===field);let attempts=0,correct=0,studied=0;qs.forEach(q=>{const r=state.records[q.id];if(r){attempts+=r.attempts;correct+=r.correct;studied++;}});return {field,attempts,correct,studied,total:qs.length,rate:attempts?Math.round(correct/attempts*100):null};});}
+export function weakQuestions(questions,state){return questions.filter(q=>state.records[q.id]?.lastCorrect===false).sort((a,b)=>(state.records[b.id]?.wrongCount||0)-(state.records[a.id]?.wrongCount||0));}
+export function recommendation(questions,state){const stats=fieldStats(questions,state).filter(s=>s.attempts);if(!stats.length)return 'まずは宅建業法から。得点源となる基本論点を固めましょう。';const weakest=stats.sort((a,b)=>(a.rate-b.rate))[0];return `${weakest.field}の累計正答率は${weakest.rate}%。間違えた問題の解説を確認して、もう一度解いてみましょう。`;}

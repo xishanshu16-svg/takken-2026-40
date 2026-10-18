@@ -1,0 +1,3738 @@
+{
+  "field": "宅建業法",
+  "checkedAt": "2026-10-18",
+  "lawBasis": "2026年4月1日現在に施行される法令を基本に照合。後日閲覧の現行本文を用いる際は、公式施行日資料と区別した。",
+  "scope": {
+    "files": [
+      {
+        "file": "chapter01.pdf",
+        "physicalPages": 73,
+        "materialQuestions": 35
+      },
+      {
+        "file": "ex_chapter01.pdf",
+        "physicalPages": 114,
+        "materialQuestions": 55
+      }
+    ],
+    "physicalPagesReviewed": 187,
+    "materialQuestions": 90,
+    "pageNumberConvention": "すべてPDF物理ページ（先頭表紙を1ページ）。冊子内のノンブルとは区別。"
+  },
+  "limitations": [
+    "本集計は提供教材2冊の収録単位を数えたもの。年度別の本試験全問データベースではなく、本試験出題頻度・出題確率は算定していない。",
+    "Q&Aには過去問の一肢や改変問題が収録されている。同じ年度・問番号が複数回現れることがあり、出題回数として単純加算しない。",
+    "一問一答chapter01には、個々の問題の過去出題年度の記載を確認しなかった。2026年度版は教材版の表示であり出題年度ではない。",
+    "新設の管理業者管理者方式や低廉な空家等特例は公式資料から補足した。関連PDFページは周辺テーマの参照であり、その新設事項がPDFに掲載されているという意味ではない。",
+    "抽出テキストには縦見出しの混入や一部文字化けがある。法律用語は公式条文で照合し、文字化けを法令の根拠としない。"
+  ],
+  "materialFrequency": [
+    {
+      "group": "8種制限",
+      "materialQuestionCount": 11,
+      "basis": "chapter01とex_chapter01の収録設問単位の合計"
+    },
+    {
+      "group": "免許",
+      "materialQuestionCount": 10,
+      "basis": "chapter01とex_chapter01の収録設問単位の合計"
+    },
+    {
+      "group": "宅建士",
+      "materialQuestionCount": 9,
+      "basis": "chapter01とex_chapter01の収録設問単位の合計"
+    },
+    {
+      "group": "35条・37条",
+      "materialQuestionCount": 9,
+      "basis": "chapter01とex_chapter01の収録設問単位の合計"
+    },
+    {
+      "group": "営業保証金",
+      "materialQuestionCount": 8,
+      "basis": "chapter01とex_chapter01の収録設問単位の合計"
+    },
+    {
+      "group": "保証協会",
+      "materialQuestionCount": 7,
+      "basis": "chapter01とex_chapter01の収録設問単位の合計"
+    },
+    {
+      "group": "事務所・案内所",
+      "materialQuestionCount": 7,
+      "basis": "chapter01とex_chapter01の収録設問単位の合計"
+    },
+    {
+      "group": "住宅瑕疵担保履行法",
+      "materialQuestionCount": 7,
+      "basis": "chapter01とex_chapter01の収録設問単位の合計"
+    },
+    {
+      "group": "宅建業の基本",
+      "materialQuestionCount": 6,
+      "basis": "chapter01とex_chapter01の収録設問単位の合計"
+    },
+    {
+      "group": "媒介契約",
+      "materialQuestionCount": 5,
+      "basis": "chapter01とex_chapter01の収録設問単位の合計"
+    },
+    {
+      "group": "広告・業務規制",
+      "materialQuestionCount": 5,
+      "basis": "chapter01とex_chapter01の収録設問単位の合計"
+    },
+    {
+      "group": "監督",
+      "materialQuestionCount": 4,
+      "basis": "chapter01とex_chapter01の収録設問単位の合計"
+    },
+    {
+      "group": "報酬",
+      "materialQuestionCount": 2,
+      "basis": "chapter01とex_chapter01の収録設問単位の合計"
+    }
+  ],
+  "pastQuestionRecords": [
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 1,
+      "theme": "区画分譲と販売代理",
+      "pdfPage": 2,
+      "printedExamReferences": [
+        "R2(10月)−問263"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 2,
+      "theme": "住宅供給公社",
+      "pdfPage": 4,
+      "printedExamReferences": [
+        "H15−問303"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 3,
+      "theme": "農協の免許",
+      "pdfPage": 6,
+      "printedExamReferences": [
+        "R3(10月)−問323改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 4,
+      "theme": "一県内の事務所数と免許",
+      "pdfPage": 8,
+      "printedExamReferences": [
+        "H23−問261"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 5,
+      "theme": "免許5年",
+      "pdfPage": 10,
+      "printedExamReferences": [
+        "H23−問264"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 6,
+      "theme": "非常勤役員の変更届",
+      "pdfPage": 12,
+      "printedExamReferences": [
+        "H18−問312改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 7,
+      "theme": "他県へ全事務所移転",
+      "pdfPage": 14,
+      "printedExamReferences": [
+        "H20−問304改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 8,
+      "theme": "死亡による免許失効",
+      "pdfPage": 16,
+      "printedExamReferences": [
+        "H29−問443"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 9,
+      "theme": "相続人のみなし業者",
+      "pdfPage": 18,
+      "printedExamReferences": [
+        "R2(10月)−問432"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 10,
+      "theme": "実刑後の登録欠格起算",
+      "pdfPage": 20,
+      "printedExamReferences": [
+        "H20−問331改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 11,
+      "theme": "不正登録の駆込み消除",
+      "pdfPage": 22,
+      "printedExamReferences": [
+        "H16−問343"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 12,
+      "theme": "資格登録簿の事項",
+      "pdfPage": 24,
+      "printedExamReferences": [
+        "R2(10月)−問343"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 13,
+      "theme": "登録移転の任意性",
+      "pdfPage": 26,
+      "printedExamReferences": [
+        "R4−問33"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 14,
+      "theme": "破産時の登録届出者",
+      "pdfPage": 28,
+      "printedExamReferences": [
+        "H15−問331改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 15,
+      "theme": "宅建士証の講習",
+      "pdfPage": 30,
+      "printedExamReferences": [
+        "R4−問293"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 16,
+      "theme": "発見した旧宅建士証返納",
+      "pdfPage": 32,
+      "printedExamReferences": [
+        "H19−問314改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 17,
+      "theme": "国債供託と本店移転",
+      "pdfPage": 34,
+      "printedExamReferences": [
+        "H25−問273"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 18,
+      "theme": "工事請負債権と還付",
+      "pdfPage": 36,
+      "printedExamReferences": [
+        "R2(10月)−問351"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 19,
+      "theme": "取消し後の取戻し",
+      "pdfPage": 38,
+      "printedExamReferences": [
+        "R4−問41"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 20,
+      "theme": "支店廃止時の取戻し公告",
+      "pdfPage": 40,
+      "printedExamReferences": [
+        "H16−問352"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 21,
+      "theme": "保証協会二重加入禁止",
+      "pdfPage": 42,
+      "printedExamReferences": [
+        "H15−問353改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 22,
+      "theme": "加入時の分担金納付期限",
+      "pdfPage": 44,
+      "printedExamReferences": [
+        "R1−問331"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 23,
+      "theme": "加入前取引の弁済",
+      "pdfPage": 46,
+      "printedExamReferences": [
+        "H26−問394改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 24,
+      "theme": "還付充当金2週間",
+      "pdfPage": 48,
+      "printedExamReferences": [
+        "H17−問454"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 25,
+      "theme": "契約等をする展示会の専任人数",
+      "pdfPage": 50,
+      "printedExamReferences": [
+        "H21−問424改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 26,
+      "theme": "専任不足の是正2週間",
+      "pdfPage": 52,
+      "printedExamReferences": [
+        "H24−問361改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 27,
+      "theme": "契約等なし案内所の標識",
+      "pdfPage": 54,
+      "printedExamReferences": [
+        "H23−問42"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 28,
+      "theme": "帳簿の保存起算点",
+      "pdfPage": 56,
+      "printedExamReferences": [
+        "R1−問402"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 29,
+      "theme": "退職者の従業者名簿",
+      "pdfPage": 58,
+      "printedExamReferences": [
+        "R2(10月)−問393"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 30,
+      "theme": "専任媒介自動更新禁止",
+      "pdfPage": 60,
+      "printedExamReferences": [
+        "R2(10月)−問29"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 31,
+      "theme": "専任媒介の報告と休業日",
+      "pdfPage": 62,
+      "printedExamReferences": [
+        "H21−問323"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 32,
+      "theme": "一般媒介の書面記載",
+      "pdfPage": 64,
+      "printedExamReferences": [
+        "H20−問35"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 33,
+      "theme": "利用制限非表示の誇大広告",
+      "pdfPage": 67,
+      "printedExamReferences": [
+        "R2(10月)−問27"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 34,
+      "theme": "おとり広告と実害不要",
+      "pdfPage": 69,
+      "printedExamReferences": [
+        "H29−問42"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 35,
+      "theme": "広告は許可等申請では足りない",
+      "pdfPage": 71,
+      "printedExamReferences": [
+        "R2(10月)−問27"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 36,
+      "theme": "貸借と住宅性能評価",
+      "pdfPage": 73,
+      "printedExamReferences": [
+        "H24−問301改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 37,
+      "theme": "修繕積立既存額説明",
+      "pdfPage": 75,
+      "printedExamReferences": [
+        "R2(10月)−問444改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 38,
+      "theme": "担保責任履行措置なしの説明",
+      "pdfPage": 77,
+      "printedExamReferences": [
+        "H19−問354改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 39,
+      "theme": "代理と37条書面両当事者",
+      "pdfPage": 79,
+      "printedExamReferences": [
+        "H21−問352改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 40,
+      "theme": "借賃以外の金銭記載",
+      "pdfPage": 81,
+      "printedExamReferences": [
+        "H22−問341改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 41,
+      "theme": "予定賠償額の記載",
+      "pdfPage": 83,
+      "printedExamReferences": [
+        "R1−問341改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 42,
+      "theme": "不当高額報酬要求",
+      "pdfPage": 85,
+      "printedExamReferences": [
+        "H18−問402改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 43,
+      "theme": "クーリングオフ発信時効力",
+      "pdfPage": 87,
+      "printedExamReferences": [
+        "H21−問341"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 44,
+      "theme": "クーリングオフ違約金禁止",
+      "pdfPage": 89,
+      "printedExamReferences": [
+        "H23−問35"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 45,
+      "theme": "契約不適合責任の解除排除",
+      "pdfPage": 91,
+      "printedExamReferences": [
+        "H24−問394改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 46,
+      "theme": "賠償額と違約金合算",
+      "pdfPage": 94,
+      "printedExamReferences": [
+        "R3(10月)−問423改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 47,
+      "theme": "完成物件の中間金累計保全",
+      "pdfPage": 96,
+      "printedExamReferences": [
+        "H24−問34"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 48,
+      "theme": "取得停止条件未成就の他人物売買",
+      "pdfPage": 99,
+      "printedExamReferences": [
+        "R1−問351"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 49,
+      "theme": "他県知事の指示処分",
+      "pdfPage": 101,
+      "printedExamReferences": [
+        "H27−問431改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 50,
+      "theme": "指示処分の公告不要",
+      "pdfPage": 103,
+      "printedExamReferences": [
+        "H21−問454改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 51,
+      "theme": "新築住宅担保責任免責と資力確保",
+      "pdfPage": 105,
+      "printedExamReferences": [
+        "R5−問454改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 52,
+      "theme": "業者買主は資力確保義務対象外",
+      "pdfPage": 107,
+      "printedExamReferences": [
+        "R4−問451"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 53,
+      "theme": "責任保険料は売主負担",
+      "pdfPage": 109,
+      "printedExamReferences": [
+        "H23−問454"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 54,
+      "theme": "基準日から3週間の届出",
+      "pdfPage": 111,
+      "printedExamReferences": [
+        "H24−問451"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 55,
+      "theme": "供託所説明は契約前",
+      "pdfPage": 113,
+      "printedExamReferences": [
+        "H25−問453改"
+      ]
+    }
+  ],
+  "pageInventory": [
+    {
+      "file": "chapter01.pdf",
+      "page": 1,
+      "role": "表紙",
+      "theme": "2026年度版・宅建業法",
+      "questionNumber": null,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 2,
+      "role": "問題",
+      "theme": "宅地の定義",
+      "questionNumber": 1,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 3,
+      "role": "解答・解説",
+      "theme": "宅地の定義",
+      "questionNumber": 1,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 4,
+      "role": "問題",
+      "theme": "自ら貸借",
+      "questionNumber": 2,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 5,
+      "role": "解答・解説",
+      "theme": "自ら貸借",
+      "questionNumber": 2,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 6,
+      "role": "問題",
+      "theme": "貸借媒介と管理",
+      "questionNumber": 3,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 7,
+      "role": "解答・解説",
+      "theme": "貸借媒介と管理",
+      "questionNumber": 3,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 8,
+      "role": "問題",
+      "theme": "法人の本店と免許区分",
+      "questionNumber": 4,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 9,
+      "role": "解答・解説",
+      "theme": "法人の本店と免許区分",
+      "questionNumber": 4,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 10,
+      "role": "問題",
+      "theme": "免許換えと全国取引",
+      "questionNumber": 5,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 11,
+      "role": "解答・解説",
+      "theme": "免許換えと全国取引",
+      "questionNumber": 5,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 12,
+      "role": "問題",
+      "theme": "破産時の廃業等届出",
+      "questionNumber": 6,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 13,
+      "role": "解答・解説",
+      "theme": "破産時の廃業等届出",
+      "questionNumber": 6,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 14,
+      "role": "問題",
+      "theme": "拘禁刑と法人役員の欠格",
+      "questionNumber": 7,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 15,
+      "role": "解答・解説",
+      "theme": "拘禁刑と法人役員の欠格",
+      "questionNumber": 7,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 16,
+      "role": "問題",
+      "theme": "宅建士住所変更登録",
+      "questionNumber": 8,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 17,
+      "role": "解答・解説",
+      "theme": "宅建士住所変更登録",
+      "questionNumber": 8,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 18,
+      "role": "問題",
+      "theme": "宅建士登録移転",
+      "questionNumber": 9,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 19,
+      "role": "解答・解説",
+      "theme": "宅建士登録移転",
+      "questionNumber": 9,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 20,
+      "role": "問題",
+      "theme": "有価証券評価",
+      "questionNumber": 10,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 21,
+      "role": "問題又は解説の続き",
+      "theme": "有価証券評価",
+      "questionNumber": 10,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 22,
+      "role": "問題",
+      "theme": "営業保証金額",
+      "questionNumber": 11,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 23,
+      "role": "問題又は解説の続き",
+      "theme": "営業保証金額",
+      "questionNumber": 11,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 24,
+      "role": "問題",
+      "theme": "営業開始順序",
+      "questionNumber": 12,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 25,
+      "role": "問題又は解説の続き",
+      "theme": "営業開始順序",
+      "questionNumber": 12,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 26,
+      "role": "問題",
+      "theme": "還付対象債権",
+      "questionNumber": 13,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 27,
+      "role": "問題又は解説の続き",
+      "theme": "還付対象債権",
+      "questionNumber": 13,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 28,
+      "role": "問題",
+      "theme": "追加分担金期限",
+      "questionNumber": 14,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 29,
+      "role": "問題又は解説の続き",
+      "theme": "追加分担金期限",
+      "questionNumber": 14,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 30,
+      "role": "問題",
+      "theme": "保証協会の通常供託期限",
+      "questionNumber": 15,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 31,
+      "role": "問題又は解説の続き",
+      "theme": "保証協会の通常供託期限",
+      "questionNumber": 15,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 32,
+      "role": "問題",
+      "theme": "一部事務所廃止の分担金返還",
+      "questionNumber": 16,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 33,
+      "role": "問題又は解説の続き",
+      "theme": "一部事務所廃止の分担金返還",
+      "questionNumber": 16,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 34,
+      "role": "問題",
+      "theme": "報酬額掲示",
+      "questionNumber": 17,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 35,
+      "role": "問題又は解説の続き",
+      "theme": "報酬額掲示",
+      "questionNumber": 17,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 36,
+      "role": "問題",
+      "theme": "案内所の専任宅建士",
+      "questionNumber": 18,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 37,
+      "role": "問題又は解説の続き",
+      "theme": "案内所の専任宅建士",
+      "questionNumber": 18,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 38,
+      "role": "問題",
+      "theme": "成約通知",
+      "questionNumber": 19,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 39,
+      "role": "問題又は解説の続き",
+      "theme": "成約通知",
+      "questionNumber": 19,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 40,
+      "role": "問題",
+      "theme": "価格意見の根拠",
+      "questionNumber": 20,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 41,
+      "role": "問題又は解説の続き",
+      "theme": "価格意見の根拠",
+      "questionNumber": 20,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 42,
+      "role": "問題",
+      "theme": "取引態様",
+      "questionNumber": 21,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 43,
+      "role": "問題又は解説の続き",
+      "theme": "取引態様",
+      "questionNumber": 21,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 44,
+      "role": "問題",
+      "theme": "石綿調査記録",
+      "questionNumber": 22,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 45,
+      "role": "問題又は解説の続き",
+      "theme": "石綿調査記録",
+      "questionNumber": 22,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 46,
+      "role": "問題",
+      "theme": "代金以外の授受金銭",
+      "questionNumber": 23,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 47,
+      "role": "問題又は解説の続き",
+      "theme": "代金以外の授受金銭",
+      "questionNumber": 23,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 48,
+      "role": "問題",
+      "theme": "37条の引渡時期",
+      "questionNumber": 24,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 49,
+      "role": "問題又は解説の続き",
+      "theme": "37条の引渡時期",
+      "questionNumber": 24,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 50,
+      "role": "問題",
+      "theme": "自宅申込みのクーリングオフ",
+      "questionNumber": 25,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 51,
+      "role": "問題又は解説の続き",
+      "theme": "自宅申込みのクーリングオフ",
+      "questionNumber": 25,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 52,
+      "role": "問題",
+      "theme": "契約不適合責任特約の起算",
+      "questionNumber": 26,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 53,
+      "role": "問題又は解説の続き",
+      "theme": "契約不適合責任特約の起算",
+      "questionNumber": 26,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 54,
+      "role": "問題又は解説の続き",
+      "theme": "契約不適合責任特約の起算",
+      "questionNumber": 26,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 55,
+      "role": "問題又は解説の続き",
+      "theme": "契約不適合責任特約の起算",
+      "questionNumber": 26,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 56,
+      "role": "問題",
+      "theme": "賠償額と違約金",
+      "questionNumber": 27,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 57,
+      "role": "問題又は解説の続き",
+      "theme": "賠償額と違約金",
+      "questionNumber": 27,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 58,
+      "role": "問題",
+      "theme": "手付の額",
+      "questionNumber": 28,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 59,
+      "role": "問題又は解説の続き",
+      "theme": "手付の額",
+      "questionNumber": 28,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 60,
+      "role": "問題",
+      "theme": "未完成物件保全",
+      "questionNumber": 29,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 61,
+      "role": "問題又は解説の続き",
+      "theme": "未完成物件保全",
+      "questionNumber": 29,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 62,
+      "role": "問題",
+      "theme": "特別広告費",
+      "questionNumber": 30,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 63,
+      "role": "問題又は解説の続き",
+      "theme": "特別広告費",
+      "questionNumber": 30,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 64,
+      "role": "問題",
+      "theme": "貸借媒介の合計報酬",
+      "questionNumber": 31,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 65,
+      "role": "問題又は解説の続き",
+      "theme": "貸借媒介の合計報酬",
+      "questionNumber": 31,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 66,
+      "role": "問題",
+      "theme": "業者の業務停止期間",
+      "questionNumber": 32,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 67,
+      "role": "解答・解説",
+      "theme": "業者の業務停止期間",
+      "questionNumber": 32,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 68,
+      "role": "問題",
+      "theme": "宅建士登録消除権限",
+      "questionNumber": 33,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 69,
+      "role": "解答・解説",
+      "theme": "宅建士登録消除権限",
+      "questionNumber": 33,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 70,
+      "role": "問題",
+      "theme": "資力確保義務の対象者",
+      "questionNumber": 34,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 71,
+      "role": "問題又は解説の続き",
+      "theme": "資力確保義務の対象者",
+      "questionNumber": 34,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 72,
+      "role": "問題",
+      "theme": "届出未了時の新規契約制限",
+      "questionNumber": 35,
+      "printedExamReferences": []
+    },
+    {
+      "file": "chapter01.pdf",
+      "page": 73,
+      "role": "問題又は解説の続き",
+      "theme": "届出未了時の新規契約制限",
+      "questionNumber": 35,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 1,
+      "role": "表紙",
+      "theme": "2026年度版・宅建業法",
+      "questionNumber": null,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 2,
+      "role": "問題",
+      "theme": "区画分譲と販売代理",
+      "questionNumber": 1,
+      "printedExamReferences": [
+        "R2(10月)−問263"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 3,
+      "role": "解答・解説",
+      "theme": "区画分譲と販売代理",
+      "questionNumber": 1,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 4,
+      "role": "問題",
+      "theme": "住宅供給公社",
+      "questionNumber": 2,
+      "printedExamReferences": [
+        "H15−問303"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 5,
+      "role": "解答・解説",
+      "theme": "住宅供給公社",
+      "questionNumber": 2,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 6,
+      "role": "問題",
+      "theme": "農協の免許",
+      "questionNumber": 3,
+      "printedExamReferences": [
+        "R3(10月)−問323改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 7,
+      "role": "解答・解説",
+      "theme": "農協の免許",
+      "questionNumber": 3,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 8,
+      "role": "問題",
+      "theme": "一県内の事務所数と免許",
+      "questionNumber": 4,
+      "printedExamReferences": [
+        "H23−問261"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 9,
+      "role": "解答・解説",
+      "theme": "一県内の事務所数と免許",
+      "questionNumber": 4,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 10,
+      "role": "問題",
+      "theme": "免許5年",
+      "questionNumber": 5,
+      "printedExamReferences": [
+        "H23−問264"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 11,
+      "role": "解答・解説",
+      "theme": "免許5年",
+      "questionNumber": 5,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 12,
+      "role": "問題",
+      "theme": "非常勤役員の変更届",
+      "questionNumber": 6,
+      "printedExamReferences": [
+        "H18−問312改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 13,
+      "role": "解答・解説",
+      "theme": "非常勤役員の変更届",
+      "questionNumber": 6,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 14,
+      "role": "問題",
+      "theme": "他県へ全事務所移転",
+      "questionNumber": 7,
+      "printedExamReferences": [
+        "H20−問304改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 15,
+      "role": "解答・解説",
+      "theme": "他県へ全事務所移転",
+      "questionNumber": 7,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 16,
+      "role": "問題",
+      "theme": "死亡による免許失効",
+      "questionNumber": 8,
+      "printedExamReferences": [
+        "H29−問443"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 17,
+      "role": "解答・解説",
+      "theme": "死亡による免許失効",
+      "questionNumber": 8,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 18,
+      "role": "問題",
+      "theme": "相続人のみなし業者",
+      "questionNumber": 9,
+      "printedExamReferences": [
+        "R2(10月)−問432"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 19,
+      "role": "解答・解説",
+      "theme": "相続人のみなし業者",
+      "questionNumber": 9,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 20,
+      "role": "問題",
+      "theme": "実刑後の登録欠格起算",
+      "questionNumber": 10,
+      "printedExamReferences": [
+        "H20−問331改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 21,
+      "role": "問題又は解説の続き",
+      "theme": "実刑後の登録欠格起算",
+      "questionNumber": 10,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 22,
+      "role": "問題",
+      "theme": "不正登録の駆込み消除",
+      "questionNumber": 11,
+      "printedExamReferences": [
+        "H16−問343"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 23,
+      "role": "問題又は解説の続き",
+      "theme": "不正登録の駆込み消除",
+      "questionNumber": 11,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 24,
+      "role": "問題",
+      "theme": "資格登録簿の事項",
+      "questionNumber": 12,
+      "printedExamReferences": [
+        "R2(10月)−問343"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 25,
+      "role": "問題又は解説の続き",
+      "theme": "資格登録簿の事項",
+      "questionNumber": 12,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 26,
+      "role": "問題",
+      "theme": "登録移転の任意性",
+      "questionNumber": 13,
+      "printedExamReferences": [
+        "R4−問33"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 27,
+      "role": "問題又は解説の続き",
+      "theme": "登録移転の任意性",
+      "questionNumber": 13,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 28,
+      "role": "問題",
+      "theme": "破産時の登録届出者",
+      "questionNumber": 14,
+      "printedExamReferences": [
+        "H15−問331改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 29,
+      "role": "問題又は解説の続き",
+      "theme": "破産時の登録届出者",
+      "questionNumber": 14,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 30,
+      "role": "問題",
+      "theme": "宅建士証の講習",
+      "questionNumber": 15,
+      "printedExamReferences": [
+        "R4−問293"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 31,
+      "role": "問題又は解説の続き",
+      "theme": "宅建士証の講習",
+      "questionNumber": 15,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 32,
+      "role": "問題",
+      "theme": "発見した旧宅建士証返納",
+      "questionNumber": 16,
+      "printedExamReferences": [
+        "H19−問314改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 33,
+      "role": "問題又は解説の続き",
+      "theme": "発見した旧宅建士証返納",
+      "questionNumber": 16,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 34,
+      "role": "問題",
+      "theme": "国債供託と本店移転",
+      "questionNumber": 17,
+      "printedExamReferences": [
+        "H25−問273"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 35,
+      "role": "問題又は解説の続き",
+      "theme": "国債供託と本店移転",
+      "questionNumber": 17,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 36,
+      "role": "問題",
+      "theme": "工事請負債権と還付",
+      "questionNumber": 18,
+      "printedExamReferences": [
+        "R2(10月)−問351"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 37,
+      "role": "問題又は解説の続き",
+      "theme": "工事請負債権と還付",
+      "questionNumber": 18,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 38,
+      "role": "問題",
+      "theme": "取消し後の取戻し",
+      "questionNumber": 19,
+      "printedExamReferences": [
+        "R4−問41"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 39,
+      "role": "問題又は解説の続き",
+      "theme": "取消し後の取戻し",
+      "questionNumber": 19,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 40,
+      "role": "問題",
+      "theme": "支店廃止時の取戻し公告",
+      "questionNumber": 20,
+      "printedExamReferences": [
+        "H16−問352"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 41,
+      "role": "問題又は解説の続き",
+      "theme": "支店廃止時の取戻し公告",
+      "questionNumber": 20,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 42,
+      "role": "問題",
+      "theme": "保証協会二重加入禁止",
+      "questionNumber": 21,
+      "printedExamReferences": [
+        "H15−問353改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 43,
+      "role": "問題又は解説の続き",
+      "theme": "保証協会二重加入禁止",
+      "questionNumber": 21,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 44,
+      "role": "問題",
+      "theme": "加入時の分担金納付期限",
+      "questionNumber": 22,
+      "printedExamReferences": [
+        "R1−問331"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 45,
+      "role": "問題又は解説の続き",
+      "theme": "加入時の分担金納付期限",
+      "questionNumber": 22,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 46,
+      "role": "問題",
+      "theme": "加入前取引の弁済",
+      "questionNumber": 23,
+      "printedExamReferences": [
+        "H26−問394改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 47,
+      "role": "問題又は解説の続き",
+      "theme": "加入前取引の弁済",
+      "questionNumber": 23,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 48,
+      "role": "問題",
+      "theme": "還付充当金2週間",
+      "questionNumber": 24,
+      "printedExamReferences": [
+        "H17−問454"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 49,
+      "role": "問題又は解説の続き",
+      "theme": "還付充当金2週間",
+      "questionNumber": 24,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 50,
+      "role": "問題",
+      "theme": "契約等をする展示会の専任人数",
+      "questionNumber": 25,
+      "printedExamReferences": [
+        "H21−問424改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 51,
+      "role": "問題又は解説の続き",
+      "theme": "契約等をする展示会の専任人数",
+      "questionNumber": 25,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 52,
+      "role": "問題",
+      "theme": "専任不足の是正2週間",
+      "questionNumber": 26,
+      "printedExamReferences": [
+        "H24−問361改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 53,
+      "role": "問題又は解説の続き",
+      "theme": "専任不足の是正2週間",
+      "questionNumber": 26,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 54,
+      "role": "問題",
+      "theme": "契約等なし案内所の標識",
+      "questionNumber": 27,
+      "printedExamReferences": [
+        "H23−問42"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 55,
+      "role": "問題又は解説の続き",
+      "theme": "契約等なし案内所の標識",
+      "questionNumber": 27,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 56,
+      "role": "問題",
+      "theme": "帳簿の保存起算点",
+      "questionNumber": 28,
+      "printedExamReferences": [
+        "R1−問402"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 57,
+      "role": "問題又は解説の続き",
+      "theme": "帳簿の保存起算点",
+      "questionNumber": 28,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 58,
+      "role": "問題",
+      "theme": "退職者の従業者名簿",
+      "questionNumber": 29,
+      "printedExamReferences": [
+        "R2(10月)−問393"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 59,
+      "role": "問題又は解説の続き",
+      "theme": "退職者の従業者名簿",
+      "questionNumber": 29,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 60,
+      "role": "問題",
+      "theme": "専任媒介自動更新禁止",
+      "questionNumber": 30,
+      "printedExamReferences": [
+        "R2(10月)−問29"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 61,
+      "role": "問題又は解説の続き",
+      "theme": "専任媒介自動更新禁止",
+      "questionNumber": 30,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 62,
+      "role": "問題",
+      "theme": "専任媒介の報告と休業日",
+      "questionNumber": 31,
+      "printedExamReferences": [
+        "H21−問323"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 63,
+      "role": "問題又は解説の続き",
+      "theme": "専任媒介の報告と休業日",
+      "questionNumber": 31,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 64,
+      "role": "問題",
+      "theme": "一般媒介の書面記載",
+      "questionNumber": 32,
+      "printedExamReferences": [
+        "H20−問35"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 65,
+      "role": "問題又は解説の続き",
+      "theme": "一般媒介の書面記載",
+      "questionNumber": 32,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 66,
+      "role": "問題又は解説の続き",
+      "theme": "一般媒介の書面記載",
+      "questionNumber": 32,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 67,
+      "role": "問題",
+      "theme": "利用制限非表示の誇大広告",
+      "questionNumber": 33,
+      "printedExamReferences": [
+        "R2(10月)−問27"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 68,
+      "role": "問題又は解説の続き",
+      "theme": "利用制限非表示の誇大広告",
+      "questionNumber": 33,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 69,
+      "role": "問題",
+      "theme": "おとり広告と実害不要",
+      "questionNumber": 34,
+      "printedExamReferences": [
+        "H29−問42"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 70,
+      "role": "問題又は解説の続き",
+      "theme": "おとり広告と実害不要",
+      "questionNumber": 34,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 71,
+      "role": "問題",
+      "theme": "広告は許可等申請では足りない",
+      "questionNumber": 35,
+      "printedExamReferences": [
+        "R2(10月)−問27"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 72,
+      "role": "問題又は解説の続き",
+      "theme": "広告は許可等申請では足りない",
+      "questionNumber": 35,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 73,
+      "role": "問題",
+      "theme": "貸借と住宅性能評価",
+      "questionNumber": 36,
+      "printedExamReferences": [
+        "H24−問301改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 74,
+      "role": "問題又は解説の続き",
+      "theme": "貸借と住宅性能評価",
+      "questionNumber": 36,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 75,
+      "role": "問題",
+      "theme": "修繕積立既存額説明",
+      "questionNumber": 37,
+      "printedExamReferences": [
+        "R2(10月)−問444改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 76,
+      "role": "問題又は解説の続き",
+      "theme": "修繕積立既存額説明",
+      "questionNumber": 37,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 77,
+      "role": "問題",
+      "theme": "担保責任履行措置なしの説明",
+      "questionNumber": 38,
+      "printedExamReferences": [
+        "H19−問354改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 78,
+      "role": "問題又は解説の続き",
+      "theme": "担保責任履行措置なしの説明",
+      "questionNumber": 38,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 79,
+      "role": "問題",
+      "theme": "代理と37条書面両当事者",
+      "questionNumber": 39,
+      "printedExamReferences": [
+        "H21−問352改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 80,
+      "role": "問題又は解説の続き",
+      "theme": "代理と37条書面両当事者",
+      "questionNumber": 39,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 81,
+      "role": "問題",
+      "theme": "借賃以外の金銭記載",
+      "questionNumber": 40,
+      "printedExamReferences": [
+        "H22−問341改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 82,
+      "role": "問題又は解説の続き",
+      "theme": "借賃以外の金銭記載",
+      "questionNumber": 40,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 83,
+      "role": "問題",
+      "theme": "予定賠償額の記載",
+      "questionNumber": 41,
+      "printedExamReferences": [
+        "R1−問341改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 84,
+      "role": "問題又は解説の続き",
+      "theme": "予定賠償額の記載",
+      "questionNumber": 41,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 85,
+      "role": "問題",
+      "theme": "不当高額報酬要求",
+      "questionNumber": 42,
+      "printedExamReferences": [
+        "H18−問402改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 86,
+      "role": "問題又は解説の続き",
+      "theme": "不当高額報酬要求",
+      "questionNumber": 42,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 87,
+      "role": "問題",
+      "theme": "クーリングオフ発信時効力",
+      "questionNumber": 43,
+      "printedExamReferences": [
+        "H21−問341"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 88,
+      "role": "問題又は解説の続き",
+      "theme": "クーリングオフ発信時効力",
+      "questionNumber": 43,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 89,
+      "role": "問題",
+      "theme": "クーリングオフ違約金禁止",
+      "questionNumber": 44,
+      "printedExamReferences": [
+        "H23−問35"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 90,
+      "role": "問題又は解説の続き",
+      "theme": "クーリングオフ違約金禁止",
+      "questionNumber": 44,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 91,
+      "role": "問題",
+      "theme": "契約不適合責任の解除排除",
+      "questionNumber": 45,
+      "printedExamReferences": [
+        "H24−問394改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 92,
+      "role": "問題又は解説の続き",
+      "theme": "契約不適合責任の解除排除",
+      "questionNumber": 45,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 93,
+      "role": "問題又は解説の続き",
+      "theme": "契約不適合責任の解除排除",
+      "questionNumber": 45,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 94,
+      "role": "問題",
+      "theme": "賠償額と違約金合算",
+      "questionNumber": 46,
+      "printedExamReferences": [
+        "R3(10月)−問423改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 95,
+      "role": "問題又は解説の続き",
+      "theme": "賠償額と違約金合算",
+      "questionNumber": 46,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 96,
+      "role": "問題",
+      "theme": "完成物件の中間金累計保全",
+      "questionNumber": 47,
+      "printedExamReferences": [
+        "H24−問34"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 97,
+      "role": "問題又は解説の続き",
+      "theme": "完成物件の中間金累計保全",
+      "questionNumber": 47,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 98,
+      "role": "問題又は解説の続き",
+      "theme": "完成物件の中間金累計保全",
+      "questionNumber": 47,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 99,
+      "role": "問題",
+      "theme": "取得停止条件未成就の他人物売買",
+      "questionNumber": 48,
+      "printedExamReferences": [
+        "R1−問351"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 100,
+      "role": "問題又は解説の続き",
+      "theme": "取得停止条件未成就の他人物売買",
+      "questionNumber": 48,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 101,
+      "role": "問題",
+      "theme": "他県知事の指示処分",
+      "questionNumber": 49,
+      "printedExamReferences": [
+        "H27−問431改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 102,
+      "role": "解答・解説",
+      "theme": "他県知事の指示処分",
+      "questionNumber": 49,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 103,
+      "role": "問題",
+      "theme": "指示処分の公告不要",
+      "questionNumber": 50,
+      "printedExamReferences": [
+        "H21−問454改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 104,
+      "role": "解答・解説",
+      "theme": "指示処分の公告不要",
+      "questionNumber": 50,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 105,
+      "role": "問題",
+      "theme": "新築住宅担保責任免責と資力確保",
+      "questionNumber": 51,
+      "printedExamReferences": [
+        "R5−問454改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 106,
+      "role": "問題又は解説の続き",
+      "theme": "新築住宅担保責任免責と資力確保",
+      "questionNumber": 51,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 107,
+      "role": "問題",
+      "theme": "業者買主は資力確保義務対象外",
+      "questionNumber": 52,
+      "printedExamReferences": [
+        "R4−問451"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 108,
+      "role": "問題又は解説の続き",
+      "theme": "業者買主は資力確保義務対象外",
+      "questionNumber": 52,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 109,
+      "role": "問題",
+      "theme": "責任保険料は売主負担",
+      "questionNumber": 53,
+      "printedExamReferences": [
+        "H23−問454"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 110,
+      "role": "問題又は解説の続き",
+      "theme": "責任保険料は売主負担",
+      "questionNumber": 53,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 111,
+      "role": "問題",
+      "theme": "基準日から3週間の届出",
+      "questionNumber": 54,
+      "printedExamReferences": [
+        "H24−問451"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 112,
+      "role": "問題又は解説の続き",
+      "theme": "基準日から3週間の届出",
+      "questionNumber": 54,
+      "printedExamReferences": []
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 113,
+      "role": "問題",
+      "theme": "供託所説明は契約前",
+      "questionNumber": 55,
+      "printedExamReferences": [
+        "H25−問453改"
+      ]
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "page": 114,
+      "role": "問題又は解説の続き",
+      "theme": "供託所説明は契約前",
+      "questionNumber": 55,
+      "printedExamReferences": []
+    }
+  ],
+  "questionInventory": [
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 1,
+      "pages": [
+        2,
+        3
+      ],
+      "theme": "宅地の定義",
+      "group": "宅建業の基本",
+      "printedExamReferences": [],
+      "judgementPoint": "用途地域内でも道路等公共施設用地は除外",
+      "trap": "用途地域内なら全て宅地とする"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 2,
+      "pages": [
+        4,
+        5
+      ],
+      "theme": "自ら貸借",
+      "group": "宅建業の基本",
+      "printedExamReferences": [],
+      "judgementPoint": "自ら貸借は定義に含まれない",
+      "trap": "多数戸の自ら賃貸を宅建業とする"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 3,
+      "pages": [
+        6,
+        7
+      ],
+      "theme": "貸借媒介と管理",
+      "group": "宅建業の基本",
+      "printedExamReferences": [],
+      "judgementPoint": "管理のみと反復する貸借媒介を区別",
+      "trap": "管理契約があれば媒介の免許も不要とする"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 4,
+      "pages": [
+        8,
+        9
+      ],
+      "theme": "法人の本店と免許区分",
+      "group": "免許",
+      "printedExamReferences": [],
+      "judgementPoint": "支店が宅建業を営むと本店も事務所",
+      "trap": "本店が他事業のみなら事務所から除く"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 5,
+      "pages": [
+        10,
+        11
+      ],
+      "theme": "免許換えと全国取引",
+      "group": "免許",
+      "printedExamReferences": [],
+      "judgementPoint": "物件所在地でなく事務所所在地で免許区分判断",
+      "trap": "県外物件の取引だけで免許換えとする"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 6,
+      "pages": [
+        12,
+        13
+      ],
+      "theme": "破産時の廃業等届出",
+      "group": "免許",
+      "printedExamReferences": [],
+      "judgementPoint": "破産管財人が30日以内に届出、知事経由事務廃止",
+      "trap": "代表役員を届出者、知事経由を必要とする"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 7,
+      "pages": [
+        14,
+        15
+      ],
+      "theme": "拘禁刑と法人役員の欠格",
+      "group": "免許",
+      "printedExamReferences": [],
+      "judgementPoint": "実刑の執行終了等から5年、非常勤も役員",
+      "trap": "非常勤役員を除外する"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 8,
+      "pages": [
+        16,
+        17
+      ],
+      "theme": "宅建士住所変更登録",
+      "group": "宅建士",
+      "printedExamReferences": [],
+      "judgementPoint": "証の有無を問わず遅滞なく登録先知事へ",
+      "trap": "宅建士証の有無で義務を変える"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 9,
+      "pages": [
+        18,
+        19
+      ],
+      "theme": "宅建士登録移転",
+      "group": "宅建士",
+      "printedExamReferences": [],
+      "judgementPoint": "県外業務に従事する等の場合の移転は任意",
+      "trap": "移転を義務とする"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 10,
+      "pages": [
+        20,
+        21
+      ],
+      "theme": "有価証券評価",
+      "group": "営業保証金",
+      "printedExamReferences": [],
+      "judgementPoint": "国債100%、地方債・政府保証債90%、所定その他80%",
+      "trap": "評価率の置換え"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 11,
+      "pages": [
+        22,
+        23
+      ],
+      "theme": "営業保証金額",
+      "group": "営業保証金",
+      "printedExamReferences": [],
+      "judgementPoint": "本店1000万円、支店500万円",
+      "trap": "分担金の金額と混同する"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 12,
+      "pages": [
+        24,
+        25
+      ],
+      "theme": "営業開始順序",
+      "group": "営業保証金",
+      "printedExamReferences": [],
+      "judgementPoint": "免許→供託→届出→開始",
+      "trap": "供託を免許前の条件とする"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 13,
+      "pages": [
+        26,
+        27
+      ],
+      "theme": "還付対象債権",
+      "group": "営業保証金",
+      "printedExamReferences": [],
+      "judgementPoint": "宅建業に関する取引から生じた債権",
+      "trap": "家賃収納代行業務を宅建取引とする"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 14,
+      "pages": [
+        28,
+        29
+      ],
+      "theme": "追加分担金期限",
+      "group": "保証協会",
+      "printedExamReferences": [],
+      "judgementPoint": "事務所新設から2週間以内、不納付で社員地位喪失",
+      "trap": "1か月とする"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 15,
+      "pages": [
+        30,
+        31
+      ],
+      "theme": "保証協会の通常供託期限",
+      "group": "保証協会",
+      "printedExamReferences": [],
+      "judgementPoint": "分担金受領から1週間以内",
+      "trap": "社員の期限2週間との入替え"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 16,
+      "pages": [
+        32,
+        33
+      ],
+      "theme": "一部事務所廃止の分担金返還",
+      "group": "保証協会",
+      "printedExamReferences": [],
+      "judgementPoint": "一部事務所廃止による返還では公告不要",
+      "trap": "営業保証金の取戻しと同一とする"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 17,
+      "pages": [
+        34,
+        35
+      ],
+      "theme": "報酬額掲示",
+      "group": "事務所・案内所",
+      "printedExamReferences": [],
+      "judgementPoint": "事務所の報酬額掲示と案内所の標識を区別",
+      "trap": "案内所にも報酬額掲示を要求する"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 18,
+      "pages": [
+        36,
+        37
+      ],
+      "theme": "案内所の専任宅建士",
+      "group": "事務所・案内所",
+      "printedExamReferences": [],
+      "judgementPoint": "申込み・契約を扱う所定の場所では1人以上",
+      "trap": "申込みのない案内所にも専任を要求する"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 19,
+      "pages": [
+        38,
+        39
+      ],
+      "theme": "成約通知",
+      "group": "媒介契約",
+      "printedExamReferences": [],
+      "judgementPoint": "登録物件の成約時に遅滞なく通知",
+      "trap": "引渡しまで通知不要とする"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 20,
+      "pages": [
+        40,
+        41
+      ],
+      "theme": "価格意見の根拠",
+      "group": "媒介契約",
+      "printedExamReferences": [],
+      "judgementPoint": "一般媒介でも意見の根拠を明示",
+      "trap": "一般媒介だから不要とする"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 21,
+      "pages": [
+        42,
+        43
+      ],
+      "theme": "取引態様",
+      "group": "広告・業務規制",
+      "printedExamReferences": [],
+      "judgementPoint": "広告と注文時の双方で明示",
+      "trap": "広告済みなら注文時省略可とする"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 22,
+      "pages": [
+        44,
+        45
+      ],
+      "theme": "石綿調査記録",
+      "group": "35条・37条",
+      "printedExamReferences": [],
+      "judgementPoint": "記録があれば説明、新規調査義務とは別",
+      "trap": "記録なしなら自ら調査必須とする"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 23,
+      "pages": [
+        46,
+        47
+      ],
+      "theme": "代金以外の授受金銭",
+      "group": "35条・37条",
+      "printedExamReferences": [],
+      "judgementPoint": "35条では代金以外の額・目的を説明",
+      "trap": "代金そのものと代金以外を逆転する"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 24,
+      "pages": [
+        48,
+        49
+      ],
+      "theme": "37条の引渡時期",
+      "group": "35条・37条",
+      "printedExamReferences": [],
+      "judgementPoint": "業者間でも37条書面交付・引渡時期記載",
+      "trap": "業者間なら省略可とする"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 25,
+      "pages": [
+        50,
+        51
+      ],
+      "theme": "自宅申込みのクーリングオフ",
+      "group": "8種制限",
+      "printedExamReferences": [],
+      "judgementPoint": "買主から申出た自宅と業者提案の自宅を区別",
+      "trap": "契約場所のみで対象外とする"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 26,
+      "pages": [
+        52,
+        53,
+        54,
+        55
+      ],
+      "theme": "契約不適合責任特約の起算",
+      "group": "8種制限",
+      "printedExamReferences": [],
+      "judgementPoint": "引渡しから2年以上の通知期間なら特例",
+      "trap": "契約日起算の2年を適法とする"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 27,
+      "pages": [
+        56,
+        57
+      ],
+      "theme": "賠償額と違約金",
+      "group": "8種制限",
+      "printedExamReferences": [],
+      "judgementPoint": "合計20%上限",
+      "trap": "別枠各20%とする"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 28,
+      "pages": [
+        58,
+        59
+      ],
+      "theme": "手付の額",
+      "group": "8種制限",
+      "printedExamReferences": [],
+      "judgementPoint": "買主同意でも20%超受領不可",
+      "trap": "同意があれば30%等に増やす"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 29,
+      "pages": [
+        60,
+        61
+      ],
+      "theme": "未完成物件保全",
+      "group": "8種制限",
+      "printedExamReferences": [],
+      "judgementPoint": "5%以下かつ1000万円以下の金額免除",
+      "trap": "20%と5%、いずれか一方を混同"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 30,
+      "pages": [
+        62,
+        63
+      ],
+      "theme": "特別広告費",
+      "group": "報酬",
+      "printedExamReferences": [],
+      "judgementPoint": "依頼に基づく広告料金が別途請求の対象",
+      "trap": "依頼なし広告も成約貢献なら請求可とする"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 31,
+      "pages": [
+        64,
+        65
+      ],
+      "theme": "貸借媒介の合計報酬",
+      "group": "報酬",
+      "printedExamReferences": [],
+      "judgementPoint": "通常は双方合計1.1か月（税込課税事業者）",
+      "trap": "双方それぞれ1.1か月を認める"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 32,
+      "pages": [
+        66,
+        67
+      ],
+      "theme": "業者の業務停止期間",
+      "group": "監督",
+      "printedExamReferences": [],
+      "judgementPoint": "1年以内",
+      "trap": "1年を超える期間も可とする"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 33,
+      "pages": [
+        68,
+        69
+      ],
+      "theme": "宅建士登録消除権限",
+      "group": "監督",
+      "printedExamReferences": [],
+      "judgementPoint": "登録した知事が消除",
+      "trap": "違反地知事に消除権限を拡張する"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 34,
+      "pages": [
+        70,
+        71
+      ],
+      "theme": "資力確保義務の対象者",
+      "group": "住宅瑕疵担保履行法",
+      "printedExamReferences": [],
+      "judgementPoint": "自ら売主、媒介は対象外",
+      "trap": "媒介業者も義務者に含める"
+    },
+    {
+      "file": "chapter01.pdf",
+      "materialQuestionNumber": 35,
+      "pages": [
+        72,
+        73
+      ],
+      "theme": "届出未了時の新規契約制限",
+      "group": "住宅瑕疵担保履行法",
+      "printedExamReferences": [],
+      "judgementPoint": "基準日翌日から50日経過後に原則制限",
+      "trap": "1か月経過とする"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 1,
+      "pages": [
+        2,
+        3
+      ],
+      "theme": "区画分譲と販売代理",
+      "group": "宅建業の基本",
+      "printedExamReferences": [
+        "R2(10月)−問263"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 2,
+      "pages": [
+        4,
+        5
+      ],
+      "theme": "住宅供給公社",
+      "group": "宅建業の基本",
+      "printedExamReferences": [
+        "H15−問303"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 3,
+      "pages": [
+        6,
+        7
+      ],
+      "theme": "農協の免許",
+      "group": "宅建業の基本",
+      "printedExamReferences": [
+        "R3(10月)−問323改"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 4,
+      "pages": [
+        8,
+        9
+      ],
+      "theme": "一県内の事務所数と免許",
+      "group": "免許",
+      "printedExamReferences": [
+        "H23−問261"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 5,
+      "pages": [
+        10,
+        11
+      ],
+      "theme": "免許5年",
+      "group": "免許",
+      "printedExamReferences": [
+        "H23−問264"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 6,
+      "pages": [
+        12,
+        13
+      ],
+      "theme": "非常勤役員の変更届",
+      "group": "免許",
+      "printedExamReferences": [
+        "H18−問312改"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 7,
+      "pages": [
+        14,
+        15
+      ],
+      "theme": "他県へ全事務所移転",
+      "group": "免許",
+      "printedExamReferences": [
+        "H20−問304改"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 8,
+      "pages": [
+        16,
+        17
+      ],
+      "theme": "死亡による免許失効",
+      "group": "免許",
+      "printedExamReferences": [
+        "H29−問443"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 9,
+      "pages": [
+        18,
+        19
+      ],
+      "theme": "相続人のみなし業者",
+      "group": "免許",
+      "printedExamReferences": [
+        "R2(10月)−問432"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 10,
+      "pages": [
+        20,
+        21
+      ],
+      "theme": "実刑後の登録欠格起算",
+      "group": "宅建士",
+      "printedExamReferences": [
+        "H20−問331改"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 11,
+      "pages": [
+        22,
+        23
+      ],
+      "theme": "不正登録の駆込み消除",
+      "group": "宅建士",
+      "printedExamReferences": [
+        "H16−問343"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 12,
+      "pages": [
+        24,
+        25
+      ],
+      "theme": "資格登録簿の事項",
+      "group": "宅建士",
+      "printedExamReferences": [
+        "R2(10月)−問343"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 13,
+      "pages": [
+        26,
+        27
+      ],
+      "theme": "登録移転の任意性",
+      "group": "宅建士",
+      "printedExamReferences": [
+        "R4−問33"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 14,
+      "pages": [
+        28,
+        29
+      ],
+      "theme": "破産時の登録届出者",
+      "group": "宅建士",
+      "printedExamReferences": [
+        "H15−問331改"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 15,
+      "pages": [
+        30,
+        31
+      ],
+      "theme": "宅建士証の講習",
+      "group": "宅建士",
+      "printedExamReferences": [
+        "R4−問293"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 16,
+      "pages": [
+        32,
+        33
+      ],
+      "theme": "発見した旧宅建士証返納",
+      "group": "宅建士",
+      "printedExamReferences": [
+        "H19−問314改"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 17,
+      "pages": [
+        34,
+        35
+      ],
+      "theme": "国債供託と本店移転",
+      "group": "営業保証金",
+      "printedExamReferences": [
+        "H25−問273"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 18,
+      "pages": [
+        36,
+        37
+      ],
+      "theme": "工事請負債権と還付",
+      "group": "営業保証金",
+      "printedExamReferences": [
+        "R2(10月)−問351"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 19,
+      "pages": [
+        38,
+        39
+      ],
+      "theme": "取消し後の取戻し",
+      "group": "営業保証金",
+      "printedExamReferences": [
+        "R4−問41"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 20,
+      "pages": [
+        40,
+        41
+      ],
+      "theme": "支店廃止時の取戻し公告",
+      "group": "営業保証金",
+      "printedExamReferences": [
+        "H16−問352"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 21,
+      "pages": [
+        42,
+        43
+      ],
+      "theme": "保証協会二重加入禁止",
+      "group": "保証協会",
+      "printedExamReferences": [
+        "H15−問353改"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 22,
+      "pages": [
+        44,
+        45
+      ],
+      "theme": "加入時の分担金納付期限",
+      "group": "保証協会",
+      "printedExamReferences": [
+        "R1−問331"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 23,
+      "pages": [
+        46,
+        47
+      ],
+      "theme": "加入前取引の弁済",
+      "group": "保証協会",
+      "printedExamReferences": [
+        "H26−問394改"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 24,
+      "pages": [
+        48,
+        49
+      ],
+      "theme": "還付充当金2週間",
+      "group": "保証協会",
+      "printedExamReferences": [
+        "H17−問454"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 25,
+      "pages": [
+        50,
+        51
+      ],
+      "theme": "契約等をする展示会の専任人数",
+      "group": "事務所・案内所",
+      "printedExamReferences": [
+        "H21−問424改"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 26,
+      "pages": [
+        52,
+        53
+      ],
+      "theme": "専任不足の是正2週間",
+      "group": "事務所・案内所",
+      "printedExamReferences": [
+        "H24−問361改"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 27,
+      "pages": [
+        54,
+        55
+      ],
+      "theme": "契約等なし案内所の標識",
+      "group": "事務所・案内所",
+      "printedExamReferences": [
+        "H23−問42"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 28,
+      "pages": [
+        56,
+        57
+      ],
+      "theme": "帳簿の保存起算点",
+      "group": "事務所・案内所",
+      "printedExamReferences": [
+        "R1−問402"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 29,
+      "pages": [
+        58,
+        59
+      ],
+      "theme": "退職者の従業者名簿",
+      "group": "事務所・案内所",
+      "printedExamReferences": [
+        "R2(10月)−問393"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 30,
+      "pages": [
+        60,
+        61
+      ],
+      "theme": "専任媒介自動更新禁止",
+      "group": "媒介契約",
+      "printedExamReferences": [
+        "R2(10月)−問29"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 31,
+      "pages": [
+        62,
+        63
+      ],
+      "theme": "専任媒介の報告と休業日",
+      "group": "媒介契約",
+      "printedExamReferences": [
+        "H21−問323"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 32,
+      "pages": [
+        64,
+        65,
+        66
+      ],
+      "theme": "一般媒介の書面記載",
+      "group": "媒介契約",
+      "printedExamReferences": [
+        "H20−問35"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 33,
+      "pages": [
+        67,
+        68
+      ],
+      "theme": "利用制限非表示の誇大広告",
+      "group": "広告・業務規制",
+      "printedExamReferences": [
+        "R2(10月)−問27"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 34,
+      "pages": [
+        69,
+        70
+      ],
+      "theme": "おとり広告と実害不要",
+      "group": "広告・業務規制",
+      "printedExamReferences": [
+        "H29−問42"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 35,
+      "pages": [
+        71,
+        72
+      ],
+      "theme": "広告は許可等申請では足りない",
+      "group": "広告・業務規制",
+      "printedExamReferences": [
+        "R2(10月)−問27"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 36,
+      "pages": [
+        73,
+        74
+      ],
+      "theme": "貸借と住宅性能評価",
+      "group": "35条・37条",
+      "printedExamReferences": [
+        "H24−問301改"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 37,
+      "pages": [
+        75,
+        76
+      ],
+      "theme": "修繕積立既存額説明",
+      "group": "35条・37条",
+      "printedExamReferences": [
+        "R2(10月)−問444改"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 38,
+      "pages": [
+        77,
+        78
+      ],
+      "theme": "担保責任履行措置なしの説明",
+      "group": "35条・37条",
+      "printedExamReferences": [
+        "H19−問354改"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 39,
+      "pages": [
+        79,
+        80
+      ],
+      "theme": "代理と37条書面両当事者",
+      "group": "35条・37条",
+      "printedExamReferences": [
+        "H21−問352改"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 40,
+      "pages": [
+        81,
+        82
+      ],
+      "theme": "借賃以外の金銭記載",
+      "group": "35条・37条",
+      "printedExamReferences": [
+        "H22−問341改"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 41,
+      "pages": [
+        83,
+        84
+      ],
+      "theme": "予定賠償額の記載",
+      "group": "35条・37条",
+      "printedExamReferences": [
+        "R1−問341改"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 42,
+      "pages": [
+        85,
+        86
+      ],
+      "theme": "不当高額報酬要求",
+      "group": "広告・業務規制",
+      "printedExamReferences": [
+        "H18−問402改"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 43,
+      "pages": [
+        87,
+        88
+      ],
+      "theme": "クーリングオフ発信時効力",
+      "group": "8種制限",
+      "printedExamReferences": [
+        "H21−問341"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 44,
+      "pages": [
+        89,
+        90
+      ],
+      "theme": "クーリングオフ違約金禁止",
+      "group": "8種制限",
+      "printedExamReferences": [
+        "H23−問35"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 45,
+      "pages": [
+        91,
+        92,
+        93
+      ],
+      "theme": "契約不適合責任の解除排除",
+      "group": "8種制限",
+      "printedExamReferences": [
+        "H24−問394改"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 46,
+      "pages": [
+        94,
+        95
+      ],
+      "theme": "賠償額と違約金合算",
+      "group": "8種制限",
+      "printedExamReferences": [
+        "R3(10月)−問423改"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 47,
+      "pages": [
+        96,
+        97,
+        98
+      ],
+      "theme": "完成物件の中間金累計保全",
+      "group": "8種制限",
+      "printedExamReferences": [
+        "H24−問34"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 48,
+      "pages": [
+        99,
+        100
+      ],
+      "theme": "取得停止条件未成就の他人物売買",
+      "group": "8種制限",
+      "printedExamReferences": [
+        "R1−問351"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 49,
+      "pages": [
+        101,
+        102
+      ],
+      "theme": "他県知事の指示処分",
+      "group": "監督",
+      "printedExamReferences": [
+        "H27−問431改"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 50,
+      "pages": [
+        103,
+        104
+      ],
+      "theme": "指示処分の公告不要",
+      "group": "監督",
+      "printedExamReferences": [
+        "H21−問454改"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 51,
+      "pages": [
+        105,
+        106
+      ],
+      "theme": "新築住宅担保責任免責と資力確保",
+      "group": "住宅瑕疵担保履行法",
+      "printedExamReferences": [
+        "R5−問454改"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 52,
+      "pages": [
+        107,
+        108
+      ],
+      "theme": "業者買主は資力確保義務対象外",
+      "group": "住宅瑕疵担保履行法",
+      "printedExamReferences": [
+        "R4−問451"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 53,
+      "pages": [
+        109,
+        110
+      ],
+      "theme": "責任保険料は売主負担",
+      "group": "住宅瑕疵担保履行法",
+      "printedExamReferences": [
+        "H23−問454"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 54,
+      "pages": [
+        111,
+        112
+      ],
+      "theme": "基準日から3週間の届出",
+      "group": "住宅瑕疵担保履行法",
+      "printedExamReferences": [
+        "H24−問451"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    },
+    {
+      "file": "ex_chapter01.pdf",
+      "materialQuestionNumber": 55,
+      "pages": [
+        113,
+        114
+      ],
+      "theme": "供託所説明は契約前",
+      "group": "住宅瑕疵担保履行法",
+      "printedExamReferences": [
+        "H25−問453改"
+      ],
+      "judgementPoint": "教材解答を全ページ確認し、独自問題は公式現行法で再構成",
+      "trap": "原則と例外、期限の起算点、主体や対象範囲の置換え"
+    }
+  ],
+  "priorityThemes": [
+    {
+      "importance": "A",
+      "theme": "媒介契約",
+      "reason": "教材に登録・成約報告・一般媒介・更新・定期報告が分散し、専任と専属専任の数字を比較して習得できる。",
+      "points": [
+        "専任3か月、登録7日（休業日除外）、報告2週間",
+        "専属専任登録5日（休業日除外）、報告1週間",
+        "一般媒介も法定契約書面・価額意見根拠は必要"
+      ]
+    },
+    {
+      "importance": "A",
+      "theme": "35条・37条",
+      "reason": "両教材で説明時期・交付先・記載事項の入替えが反復。2026/4/1の新設説明事項もある。",
+      "points": [
+        "35条は契約成立前、37条は遅滞なく",
+        "35条の業者相手は説明省略可、書面は必要",
+        "電子提供は所定承諾と方法が条件",
+        "通常売買の代金額・引渡時期・登記時期は37条の必要記載"
+      ]
+    },
+    {
+      "importance": "A",
+      "theme": "8種制限",
+      "reason": "宅建業者が自ら売主、非業者が買主という適用条件と、数値・起算点の正確な読解を得点化する。",
+      "points": [
+        "クーリングオフは告知日を含む8日・書面発信",
+        "損害賠償予定と違約金合計20%、超過部分無効",
+        "手付20%、未完成保全5%、完成保全10%を区別",
+        "契約不適合通知期間特約は引渡しから2年以上"
+      ]
+    },
+    {
+      "importance": "A",
+      "theme": "免許・宅建士・保証制度",
+      "reason": "定義と制度の違いを理解すれば基本肢を確実に判定できる。",
+      "points": [
+        "免許区分は事務所所在地、全国取引可",
+        "業者変更30日、宅建士変更登録は遅滞なく",
+        "営業保証金1000/500万円と分担金60/30万円",
+        "追加分担金2週間・協会通常供託1週間"
+      ]
+    },
+    {
+      "importance": "A",
+      "theme": "現行報酬",
+      "reason": "基本計算に加え、旧制度の400万円・売主限定で誤答しないよう改正を確認。",
+      "points": [
+        "通常売買400万円超：（税抜代金×3%+6万円）×1.1",
+        "低廉な空家等：税抜800万円以下、依頼者一方税込33万円以内",
+        "通常居住用賃貸の双方合計1.1か月・一方0.55か月と依頼時承諾"
+      ]
+    },
+    {
+      "importance": "B",
+      "theme": "事務所・案内所、監督",
+      "reason": "役割ごとの人数、届出先、処分権者を表で整理すると失点を減らせる。",
+      "points": [
+        "事務所5分の1、所定案内所1人以上、欠員是正2週間",
+        "所定案内所の届出開始10日前",
+        "免許取消しは免許権者、登録消除は登録先知事"
+      ]
+    },
+    {
+      "importance": "B",
+      "theme": "住宅瑕疵担保履行法",
+      "reason": "教材末尾の対象者と期限の取り違えを、短時間に整理できる。",
+      "points": [
+        "自ら売主、非業者買主への新築引渡し",
+        "基準日から3週間以内届出",
+        "基準日翌日から50日経過後の新規契約制限",
+        "供託所等の書面交付説明は契約まで"
+      ]
+    },
+    {
+      "importance": "C",
+      "theme": "有価証券評価・個別の欠格例外",
+      "reason": "基礎得点を固めた後に確認。本試験の確率ではなく今回の学習順序である。",
+      "points": [
+        "国債100%、地方債・政府保証債90%、所定その他80%",
+        "欠格期間は原因ごとの起算点を分け、実刑と執行猶予を一律に扱わない"
+      ]
+    }
+  ],
+  "amendmentChecks": [
+    {
+      "topic": "管理業者管理者方式の重要事項説明",
+      "effectiveDate": "2026-04-01",
+      "finding": "区分所有建物売買等で、管理組合から管理事務を受託するマンション管理業者が当該一棟・敷地の管理者等である場合にその旨を説明。施行規則16条の2第9号。建物貸借は同条の列挙が3号・8号に限定されるため一律に追加対象とはしない。",
+      "usedIn": [
+        "extra-089"
+      ],
+      "source": "https://www.mlit.go.jp/totikensangyo/const/content/001986558.pdf"
+    },
+    {
+      "topic": "低廉な空家等の報酬",
+      "effectiveDate": "2024-07-01",
+      "finding": "税抜800万円以下の売買等媒介、依頼者一方税込33万円以内。売主・買主の双方に適用し得るが費用の勘案と事前説明合意等を要する。",
+      "usedIn": [
+        "exam-043"
+      ],
+      "source": "https://www.mlit.go.jp/totikensangyo/const/content/001750229.pdf"
+    },
+    {
+      "topic": "大臣免許関係の知事経由事務廃止",
+      "effectiveDate": "2024-05-25",
+      "finding": "教材chapter01物理13頁に明示。大臣への廃業等届出に旧知事経由を必要としない。",
+      "usedIn": [
+        "extra-078"
+      ],
+      "source": "https://www.mlit.go.jp/totikensangyo/const/1_6_bt_000268.html"
+    },
+    {
+      "topic": "拘禁刑表記",
+      "effectiveDate": "2025-06-01",
+      "finding": "教材が拘禁刑に改めている。実刑の執行終了等から5年という欠格期間を確認。執行猶予の例外は今回の設問で除外し、条件不足を避けた。",
+      "usedIn": [
+        "exam-028"
+      ],
+      "source": "https://laws.e-gov.go.jp/law/327AC1000000176"
+    },
+    {
+      "topic": "35条・37条等の電子提供",
+      "effectiveDate": "2022-05-18",
+      "finding": "所定の相手方の承諾と電磁的方法により代替可能。電子化によって法定説明義務や必要事項が消えるとはしない。",
+      "usedIn": [
+        "exam-035",
+        "exam-037"
+      ],
+      "source": "https://laws.e-gov.go.jp/law/327AC1000000176"
+    }
+  ],
+  "wrongAnswerPatterns": [
+    "主体の入替え：社員／協会、代表役員／破産管財人、免許権者／違反地知事",
+    "時点の入替え：申請／許可取得、契約／引渡し、発送／到達、契約日／引渡日",
+    "数値の入替え：1週間／2週間／30日、5%／10%／20%、営業保証金／分担金",
+    "条件の脱落：「かつ」を「又は」にする、業者間の例外、非業者買主の条件を省く",
+    "手続の混同：書面交付と説明、任意の登録移転と義務の変更登録、帳簿と従業者名簿"
+  ],
+  "scoreStrategy": {
+    "target": "20問中19点",
+    "steps": [
+      "免許・宅建士・保証・媒介の基本肢を優先し、曖昧な数字は直前カードで区別する。",
+      "35条/37条、8種制限は「取引類型・当事者・時点」の順に条件を確認する。",
+      "報酬と保全は式を書き、税込/税抜・累計・以上/以下・起算日を指差し確認する。",
+      "追加問題で間違えたテーマを反復し、個数・組合せでも各記述の真偽を先に確定する。"
+    ],
+    "caveat": "目標配分であって得点・出題的中の保証ではない。"
+  },
+  "productionQA": {
+    "questionCount": 40,
+    "examCount": 20,
+    "extraCount": 20,
+    "optionsPerQuestion": 4,
+    "explanations": 160,
+    "answerPositions": {
+      "1": 10,
+      "2": 10,
+      "3": 10,
+      "4": 10
+    },
+    "formats": [
+      "単一の正しい記述を選択",
+      "個数問題 exam-030・extra-082",
+      "組合せ問題 exam-035・extra-090"
+    ],
+    "automatedChecks": [
+      "40件・ID重複なし",
+      "4肢・4独立解説・正解範囲",
+      "物理ページ範囲検査",
+      "正解位置均等",
+      "本文重複なし"
+    ],
+    "editorialChecks": [
+      "主語・取引類型・業者買主の例外を確認",
+      "各問題の唯一の正解と各誤答の誤りを条文・教材に照合",
+      "未完成/完成の保全比率と累計計算",
+      "報酬の消費税計算と改正前後の区別",
+      "管理業者管理者方式の2026/4/1施行日確認"
+    ],
+    "status": "担当範囲の制作・自己レビュー済み。独立した第三者法律専門家による保証を表すものではない。"
+  },
+  "sources": [
+    {
+      "title": "e-Gov 宅地建物取引業法",
+      "url": "https://laws.e-gov.go.jp/law/327AC1000000176",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "title": "e-Gov 宅地建物取引業法施行規則",
+      "url": "https://laws.e-gov.go.jp/law/332M50004000012",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "title": "e-Gov 宅地建物取引業法施行令",
+      "url": "https://laws.e-gov.go.jp/law/339CO0000000383",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "title": "国土交通省 令和8年4月1日施行版 解釈・運用",
+      "url": "https://www.mlit.go.jp/totikensangyo/const/content/001881261.pdf",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "title": "国土交通省 法令改正一覧",
+      "url": "https://www.mlit.go.jp/totikensangyo/const/1_6_bt_000268.html",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "title": "国土交通省 報酬告示（令和6年7月1日施行）",
+      "url": "https://www.mlit.go.jp/totikensangyo/const/content/001750229.pdf",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "title": "国土交通省 管理業者管理者方式の重説追加・令和7年命令第2号",
+      "url": "https://www.mlit.go.jp/totikensangyo/const/content/001986558.pdf",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "title": "国土交通省 令和7年国土交通省令第117号",
+      "url": "https://www.mlit.go.jp/totikensangyo/const/content/001986549.pdf",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "title": "国土交通省 水害ハザードマップ重要事項説明",
+      "url": "https://www.mlit.go.jp/totikensangyo/const/sosei_const_fr3_000074.html",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "title": "e-Gov 特定住宅瑕疵担保責任の履行の確保等に関する法律",
+      "url": "https://laws.e-gov.go.jp/law/419AC0000000066",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "title": "国土交通省 住宅瑕疵担保履行法総合サイト",
+      "url": "https://www.mlit.go.jp/jutakukentiku/jutaku-kentiku.files/kashitanpocorner/",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "title": "e-Gov 住宅瑕疵担保履行法施行規則（16条）",
+      "url": "https://laws.e-gov.go.jp/law/420M60000800010",
+      "checkedAt": "2026-10-18"
+    },
+    {
+      "title": "国土交通省 基準日届出",
+      "url": "https://www.mlit.go.jp/jutakukentiku/jutaku-kentiku.files/kashitanpocorner/jigyousya/obligation.html",
+      "checkedAt": "2026-10-18"
+    }
+  ]
+}
